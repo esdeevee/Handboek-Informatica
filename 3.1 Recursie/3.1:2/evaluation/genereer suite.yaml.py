@@ -112,8 +112,8 @@ with open('suite.yaml', 'a') as file:
     file.write('\n')
     file.write('- tab: "som_recursief"\n')
     file.write('  testcases:\n')
-    for i in range(4):
-        for j in range(25):
+    for i in range(3):
+        for j in range(33):
             a = randint(10**(i), 10**(i+1))
             b = randint(10**(i), 10**(i+1))
             file.write('    - expression: "som_recursief(' + str(a) + ', ' + str(b) + ')"\n')

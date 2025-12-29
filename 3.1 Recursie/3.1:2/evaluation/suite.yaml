@@ -1,608 +1,606 @@
 - tab: "som_direct"
   testcases:
-    - expression: "som_direct(73, 17)"
-      return: 90
-    - expression: "som_direct(13, 30)"
-      return: 43
-    - expression: "som_direct(97, 99)"
-      return: 196
-    - expression: "som_direct(52, 88)"
-      return: 140
-    - expression: "som_direct(41, 68)"
+    - expression: "som_direct(77, 87)"
+      return: 164
+    - expression: "som_direct(50, 59)"
       return: 109
-    - expression: "som_direct(35, 50)"
-      return: 85
-    - expression: "som_direct(86, 33)"
+    - expression: "som_direct(13, 80)"
+      return: 93
+    - expression: "som_direct(73, 46)"
       return: 119
-    - expression: "som_direct(43, 93)"
-      return: 136
-    - expression: "som_direct(27, 34)"
-      return: 61
-    - expression: "som_direct(46, 60)"
-      return: 106
-    - expression: "som_direct(11, 59)"
-      return: 70
-    - expression: "som_direct(10, 11)"
-      return: 21
-    - expression: "som_direct(31, 18)"
-      return: 49
-    - expression: "som_direct(55, 92)"
-      return: 147
-    - expression: "som_direct(45, 43)"
-      return: 88
-    - expression: "som_direct(61, 33)"
-      return: 94
-    - expression: "som_direct(17, 66)"
-      return: 83
-    - expression: "som_direct(12, 100)"
-      return: 112
-    - expression: "som_direct(19, 15)"
-      return: 34
-    - expression: "som_direct(91, 99)"
-      return: 190
-    - expression: "som_direct(304, 669)"
-      return: 973
-    - expression: "som_direct(712, 101)"
-      return: 813
-    - expression: "som_direct(551, 102)"
-      return: 653
-    - expression: "som_direct(555, 765)"
-      return: 1320
-    - expression: "som_direct(447, 227)"
-      return: 674
-    - expression: "som_direct(658, 689)"
-      return: 1347
-    - expression: "som_direct(124, 754)"
-      return: 878
-    - expression: "som_direct(637, 110)"
-      return: 747
-    - expression: "som_direct(987, 547)"
-      return: 1534
-    - expression: "som_direct(438, 417)"
-      return: 855
-    - expression: "som_direct(488, 709)"
-      return: 1197
-    - expression: "som_direct(198, 754)"
-      return: 952
-    - expression: "som_direct(669, 845)"
-      return: 1514
-    - expression: "som_direct(697, 211)"
-      return: 908
-    - expression: "som_direct(914, 695)"
-      return: 1609
-    - expression: "som_direct(584, 406)"
-      return: 990
-    - expression: "som_direct(338, 134)"
-      return: 472
-    - expression: "som_direct(125, 297)"
-      return: 422
-    - expression: "som_direct(275, 864)"
-      return: 1139
-    - expression: "som_direct(166, 896)"
-      return: 1062
-    - expression: "som_direct(8673, 4955)"
-      return: 13628
-    - expression: "som_direct(9909, 5805)"
-      return: 15714
-    - expression: "som_direct(5663, 5944)"
-      return: 11607
-    - expression: "som_direct(2820, 8906)"
-      return: 11726
-    - expression: "som_direct(7555, 5741)"
-      return: 13296
-    - expression: "som_direct(6520, 3758)"
-      return: 10278
-    - expression: "som_direct(5452, 9378)"
-      return: 14830
-    - expression: "som_direct(9025, 1546)"
-      return: 10571
-    - expression: "som_direct(7540, 3065)"
-      return: 10605
-    - expression: "som_direct(2893, 3417)"
-      return: 6310
-    - expression: "som_direct(2024, 8734)"
-      return: 10758
-    - expression: "som_direct(8625, 8449)"
-      return: 17074
-    - expression: "som_direct(6612, 4383)"
-      return: 10995
-    - expression: "som_direct(4907, 9284)"
-      return: 14191
-    - expression: "som_direct(8962, 6730)"
-      return: 15692
-    - expression: "som_direct(9968, 9260)"
-      return: 19228
-    - expression: "som_direct(2498, 5147)"
-      return: 7645
-    - expression: "som_direct(1155, 9253)"
-      return: 10408
-    - expression: "som_direct(5218, 5204)"
-      return: 10422
-    - expression: "som_direct(2430, 9009)"
-      return: 11439
-    - expression: "som_direct(17078, 27598)"
-      return: 44676
-    - expression: "som_direct(16634, 84461)"
-      return: 101095
-    - expression: "som_direct(90391, 66368)"
-      return: 156759
-    - expression: "som_direct(84353, 86526)"
-      return: 170879
-    - expression: "som_direct(62843, 70417)"
-      return: 133260
-    - expression: "som_direct(90903, 88480)"
-      return: 179383
-    - expression: "som_direct(44306, 45766)"
-      return: 90072
-    - expression: "som_direct(64251, 89821)"
-      return: 154072
-    - expression: "som_direct(41125, 46142)"
-      return: 87267
-    - expression: "som_direct(41521, 66075)"
-      return: 107596
-    - expression: "som_direct(63189, 58136)"
-      return: 121325
-    - expression: "som_direct(73063, 93584)"
-      return: 166647
-    - expression: "som_direct(14592, 47728)"
-      return: 62320
-    - expression: "som_direct(96405, 71430)"
-      return: 167835
-    - expression: "som_direct(98881, 90635)"
-      return: 189516
-    - expression: "som_direct(35230, 21642)"
-      return: 56872
-    - expression: "som_direct(26200, 62468)"
-      return: 88668
-    - expression: "som_direct(77427, 11395)"
-      return: 88822
-    - expression: "som_direct(62484, 44780)"
-      return: 107264
-    - expression: "som_direct(84028, 83589)"
-      return: 167617
-    - expression: "som_direct(690447, 752116)"
-      return: 1442563
-    - expression: "som_direct(480336, 741988)"
-      return: 1222324
-    - expression: "som_direct(192519, 783050)"
-      return: 975569
-    - expression: "som_direct(593809, 723620)"
-      return: 1317429
-    - expression: "som_direct(325538, 130005)"
-      return: 455543
-    - expression: "som_direct(684346, 746818)"
-      return: 1431164
-    - expression: "som_direct(150432, 493154)"
-      return: 643586
-    - expression: "som_direct(302676, 612907)"
-      return: 915583
-    - expression: "som_direct(640843, 270232)"
-      return: 911075
-    - expression: "som_direct(367449, 994975)"
-      return: 1362424
-    - expression: "som_direct(947285, 595063)"
-      return: 1542348
-    - expression: "som_direct(947620, 257169)"
-      return: 1204789
-    - expression: "som_direct(355116, 921010)"
-      return: 1276126
-    - expression: "som_direct(877837, 911418)"
-      return: 1789255
-    - expression: "som_direct(480014, 235999)"
-      return: 716013
-    - expression: "som_direct(798097, 431627)"
-      return: 1229724
-    - expression: "som_direct(805660, 130837)"
-      return: 936497
-    - expression: "som_direct(433254, 229053)"
-      return: 662307
-    - expression: "som_direct(715293, 767672)"
-      return: 1482965
-    - expression: "som_direct(306594, 705499)"
-      return: 1012093
+    - expression: "som_direct(30, 51)"
+      return: 81
+    - expression: "som_direct(25, 15)"
+      return: 40
+    - expression: "som_direct(53, 34)"
+      return: 87
+    - expression: "som_direct(32, 27)"
+      return: 59
+    - expression: "som_direct(30, 39)"
+      return: 69
+    - expression: "som_direct(31, 83)"
+      return: 114
+    - expression: "som_direct(52, 47)"
+      return: 99
+    - expression: "som_direct(93, 90)"
+      return: 183
+    - expression: "som_direct(33, 69)"
+      return: 102
+    - expression: "som_direct(20, 13)"
+      return: 33
+    - expression: "som_direct(70, 10)"
+      return: 80
+    - expression: "som_direct(44, 75)"
+      return: 119
+    - expression: "som_direct(39, 61)"
+      return: 100
+    - expression: "som_direct(80, 75)"
+      return: 155
+    - expression: "som_direct(33, 86)"
+      return: 119
+    - expression: "som_direct(52, 44)"
+      return: 96
+    - expression: "som_direct(569, 728)"
+      return: 1297
+    - expression: "som_direct(359, 474)"
+      return: 833
+    - expression: "som_direct(746, 413)"
+      return: 1159
+    - expression: "som_direct(111, 894)"
+      return: 1005
+    - expression: "som_direct(497, 656)"
+      return: 1153
+    - expression: "som_direct(903, 511)"
+      return: 1414
+    - expression: "som_direct(205, 737)"
+      return: 942
+    - expression: "som_direct(321, 249)"
+      return: 570
+    - expression: "som_direct(644, 399)"
+      return: 1043
+    - expression: "som_direct(170, 491)"
+      return: 661
+    - expression: "som_direct(910, 765)"
+      return: 1675
+    - expression: "som_direct(553, 957)"
+      return: 1510
+    - expression: "som_direct(610, 736)"
+      return: 1346
+    - expression: "som_direct(790, 264)"
+      return: 1054
+    - expression: "som_direct(616, 314)"
+      return: 930
+    - expression: "som_direct(819, 987)"
+      return: 1806
+    - expression: "som_direct(860, 879)"
+      return: 1739
+    - expression: "som_direct(479, 377)"
+      return: 856
+    - expression: "som_direct(933, 434)"
+      return: 1367
+    - expression: "som_direct(775, 555)"
+      return: 1330
+    - expression: "som_direct(5765, 8658)"
+      return: 14423
+    - expression: "som_direct(2468, 7174)"
+      return: 9642
+    - expression: "som_direct(4374, 5156)"
+      return: 9530
+    - expression: "som_direct(7298, 8694)"
+      return: 15992
+    - expression: "som_direct(4389, 3077)"
+      return: 7466
+    - expression: "som_direct(6702, 6308)"
+      return: 13010
+    - expression: "som_direct(2740, 6466)"
+      return: 9206
+    - expression: "som_direct(9737, 8684)"
+      return: 18421
+    - expression: "som_direct(9181, 4429)"
+      return: 13610
+    - expression: "som_direct(1573, 5129)"
+      return: 6702
+    - expression: "som_direct(8358, 8837)"
+      return: 17195
+    - expression: "som_direct(5178, 2416)"
+      return: 7594
+    - expression: "som_direct(3330, 1371)"
+      return: 4701
+    - expression: "som_direct(3877, 3172)"
+      return: 7049
+    - expression: "som_direct(5112, 8430)"
+      return: 13542
+    - expression: "som_direct(8634, 9613)"
+      return: 18247
+    - expression: "som_direct(9372, 7778)"
+      return: 17150
+    - expression: "som_direct(2524, 8424)"
+      return: 10948
+    - expression: "som_direct(6056, 4159)"
+      return: 10215
+    - expression: "som_direct(9272, 8984)"
+      return: 18256
+    - expression: "som_direct(29315, 40215)"
+      return: 69530
+    - expression: "som_direct(43996, 34692)"
+      return: 78688
+    - expression: "som_direct(87450, 85910)"
+      return: 173360
+    - expression: "som_direct(64645, 59621)"
+      return: 124266
+    - expression: "som_direct(53682, 36552)"
+      return: 90234
+    - expression: "som_direct(71565, 41744)"
+      return: 113309
+    - expression: "som_direct(37531, 49707)"
+      return: 87238
+    - expression: "som_direct(18141, 71418)"
+      return: 89559
+    - expression: "som_direct(71512, 35629)"
+      return: 107141
+    - expression: "som_direct(15372, 61277)"
+      return: 76649
+    - expression: "som_direct(75536, 12708)"
+      return: 88244
+    - expression: "som_direct(93620, 66114)"
+      return: 159734
+    - expression: "som_direct(17081, 12065)"
+      return: 29146
+    - expression: "som_direct(93448, 39908)"
+      return: 133356
+    - expression: "som_direct(17240, 83344)"
+      return: 100584
+    - expression: "som_direct(34849, 69101)"
+      return: 103950
+    - expression: "som_direct(90417, 75389)"
+      return: 165806
+    - expression: "som_direct(21257, 67251)"
+      return: 88508
+    - expression: "som_direct(45132, 18510)"
+      return: 63642
+    - expression: "som_direct(18190, 65839)"
+      return: 84029
+    - expression: "som_direct(530339, 734298)"
+      return: 1264637
+    - expression: "som_direct(882411, 197611)"
+      return: 1080022
+    - expression: "som_direct(373396, 564866)"
+      return: 938262
+    - expression: "som_direct(629353, 531934)"
+      return: 1161287
+    - expression: "som_direct(704279, 408690)"
+      return: 1112969
+    - expression: "som_direct(287656, 850675)"
+      return: 1138331
+    - expression: "som_direct(973857, 594881)"
+      return: 1568738
+    - expression: "som_direct(868526, 384660)"
+      return: 1253186
+    - expression: "som_direct(516891, 399757)"
+      return: 916648
+    - expression: "som_direct(208533, 459398)"
+      return: 667931
+    - expression: "som_direct(899852, 658838)"
+      return: 1558690
+    - expression: "som_direct(656455, 995217)"
+      return: 1651672
+    - expression: "som_direct(743322, 458500)"
+      return: 1201822
+    - expression: "som_direct(275916, 746056)"
+      return: 1021972
+    - expression: "som_direct(295992, 226928)"
+      return: 522920
+    - expression: "som_direct(919625, 672025)"
+      return: 1591650
+    - expression: "som_direct(732605, 258328)"
+      return: 990933
+    - expression: "som_direct(932737, 826967)"
+      return: 1759704
+    - expression: "som_direct(233523, 422142)"
+      return: 655665
+    - expression: "som_direct(330299, 741950)"
+      return: 1072249
 
 - tab: "som_iteratief"
   testcases:
-    - expression: "som_iteratief(75, 85)"
-      return: 160
-    - expression: "som_iteratief(17, 65)"
-      return: 82
-    - expression: "som_iteratief(84, 75)"
-      return: 159
-    - expression: "som_iteratief(20, 36)"
-      return: 56
-    - expression: "som_iteratief(50, 62)"
-      return: 112
-    - expression: "som_iteratief(92, 94)"
-      return: 186
-    - expression: "som_iteratief(95, 18)"
-      return: 113
-    - expression: "som_iteratief(59, 73)"
-      return: 132
-    - expression: "som_iteratief(84, 84)"
-      return: 168
-    - expression: "som_iteratief(57, 66)"
-      return: 123
-    - expression: "som_iteratief(63, 38)"
-      return: 101
-    - expression: "som_iteratief(63, 29)"
-      return: 92
-    - expression: "som_iteratief(45, 20)"
-      return: 65
-    - expression: "som_iteratief(11, 57)"
-      return: 68
-    - expression: "som_iteratief(65, 77)"
-      return: 142
-    - expression: "som_iteratief(88, 20)"
-      return: 108
-    - expression: "som_iteratief(52, 12)"
-      return: 64
-    - expression: "som_iteratief(67, 26)"
+    - expression: "som_iteratief(53, 40)"
       return: 93
-    - expression: "som_iteratief(60, 59)"
+    - expression: "som_iteratief(89, 71)"
+      return: 160
+    - expression: "som_iteratief(80, 35)"
+      return: 115
+    - expression: "som_iteratief(31, 86)"
+      return: 117
+    - expression: "som_iteratief(45, 11)"
+      return: 56
+    - expression: "som_iteratief(59, 65)"
+      return: 124
+    - expression: "som_iteratief(93, 86)"
+      return: 179
+    - expression: "som_iteratief(40, 79)"
       return: 119
-    - expression: "som_iteratief(48, 57)"
-      return: 105
-    - expression: "som_iteratief(683, 407)"
-      return: 1090
-    - expression: "som_iteratief(690, 226)"
-      return: 916
-    - expression: "som_iteratief(642, 324)"
-      return: 966
-    - expression: "som_iteratief(755, 414)"
-      return: 1169
-    - expression: "som_iteratief(309, 385)"
-      return: 694
-    - expression: "som_iteratief(967, 159)"
-      return: 1126
-    - expression: "som_iteratief(202, 548)"
-      return: 750
-    - expression: "som_iteratief(430, 183)"
-      return: 613
-    - expression: "som_iteratief(156, 525)"
-      return: 681
-    - expression: "som_iteratief(100, 503)"
-      return: 603
-    - expression: "som_iteratief(485, 669)"
-      return: 1154
-    - expression: "som_iteratief(131, 714)"
-      return: 845
-    - expression: "som_iteratief(250, 408)"
-      return: 658
-    - expression: "som_iteratief(985, 157)"
-      return: 1142
-    - expression: "som_iteratief(829, 530)"
-      return: 1359
-    - expression: "som_iteratief(716, 436)"
-      return: 1152
-    - expression: "som_iteratief(873, 392)"
-      return: 1265
-    - expression: "som_iteratief(563, 112)"
-      return: 675
-    - expression: "som_iteratief(104, 595)"
-      return: 699
-    - expression: "som_iteratief(868, 944)"
-      return: 1812
-    - expression: "som_iteratief(6202, 1660)"
-      return: 7862
-    - expression: "som_iteratief(9205, 8153)"
-      return: 17358
-    - expression: "som_iteratief(5295, 3129)"
-      return: 8424
-    - expression: "som_iteratief(7278, 5860)"
-      return: 13138
-    - expression: "som_iteratief(4258, 7693)"
-      return: 11951
-    - expression: "som_iteratief(7240, 2524)"
-      return: 9764
-    - expression: "som_iteratief(9267, 5233)"
-      return: 14500
-    - expression: "som_iteratief(9057, 3980)"
-      return: 13037
-    - expression: "som_iteratief(5810, 7560)"
-      return: 13370
-    - expression: "som_iteratief(9818, 8659)"
-      return: 18477
-    - expression: "som_iteratief(2004, 5800)"
-      return: 7804
-    - expression: "som_iteratief(1994, 8700)"
-      return: 10694
-    - expression: "som_iteratief(9915, 8706)"
-      return: 18621
-    - expression: "som_iteratief(7502, 9814)"
-      return: 17316
-    - expression: "som_iteratief(4140, 9396)"
-      return: 13536
-    - expression: "som_iteratief(4782, 3527)"
-      return: 8309
-    - expression: "som_iteratief(5033, 9100)"
-      return: 14133
-    - expression: "som_iteratief(7317, 2549)"
-      return: 9866
-    - expression: "som_iteratief(5120, 1198)"
-      return: 6318
-    - expression: "som_iteratief(2610, 2382)"
-      return: 4992
-    - expression: "som_iteratief(34442, 91764)"
-      return: 126206
-    - expression: "som_iteratief(54790, 96170)"
-      return: 150960
-    - expression: "som_iteratief(80966, 59080)"
-      return: 140046
-    - expression: "som_iteratief(64137, 50231)"
-      return: 114368
-    - expression: "som_iteratief(86303, 26316)"
-      return: 112619
-    - expression: "som_iteratief(13155, 61306)"
-      return: 74461
-    - expression: "som_iteratief(87177, 15097)"
-      return: 102274
-    - expression: "som_iteratief(60411, 33873)"
-      return: 94284
-    - expression: "som_iteratief(38171, 10228)"
-      return: 48399
-    - expression: "som_iteratief(35952, 86701)"
-      return: 122653
-    - expression: "som_iteratief(68454, 38262)"
-      return: 106716
-    - expression: "som_iteratief(56041, 65548)"
-      return: 121589
-    - expression: "som_iteratief(73019, 67503)"
-      return: 140522
-    - expression: "som_iteratief(89270, 52451)"
-      return: 141721
-    - expression: "som_iteratief(85417, 35448)"
-      return: 120865
-    - expression: "som_iteratief(50160, 92422)"
-      return: 142582
-    - expression: "som_iteratief(58769, 44738)"
-      return: 103507
-    - expression: "som_iteratief(31802, 29733)"
-      return: 61535
-    - expression: "som_iteratief(21863, 27918)"
-      return: 49781
-    - expression: "som_iteratief(18774, 46199)"
-      return: 64973
-    - expression: "som_iteratief(864482, 156271)"
-      return: 1020753
-    - expression: "som_iteratief(849035, 380199)"
-      return: 1229234
-    - expression: "som_iteratief(659714, 509093)"
-      return: 1168807
-    - expression: "som_iteratief(455160, 391335)"
-      return: 846495
-    - expression: "som_iteratief(784458, 919894)"
-      return: 1704352
-    - expression: "som_iteratief(180119, 268092)"
-      return: 448211
-    - expression: "som_iteratief(743327, 224962)"
-      return: 968289
-    - expression: "som_iteratief(586328, 835318)"
-      return: 1421646
-    - expression: "som_iteratief(817153, 618001)"
-      return: 1435154
-    - expression: "som_iteratief(900030, 579508)"
-      return: 1479538
-    - expression: "som_iteratief(575474, 136760)"
-      return: 712234
-    - expression: "som_iteratief(652800, 740740)"
-      return: 1393540
-    - expression: "som_iteratief(938025, 602752)"
-      return: 1540777
-    - expression: "som_iteratief(570927, 839864)"
-      return: 1410791
-    - expression: "som_iteratief(300372, 809244)"
-      return: 1109616
-    - expression: "som_iteratief(805842, 694295)"
-      return: 1500137
-    - expression: "som_iteratief(392757, 316694)"
-      return: 709451
-    - expression: "som_iteratief(460827, 708957)"
-      return: 1169784
-    - expression: "som_iteratief(300744, 697125)"
-      return: 997869
-    - expression: "som_iteratief(796343, 342454)"
-      return: 1138797
+    - expression: "som_iteratief(53, 13)"
+      return: 66
+    - expression: "som_iteratief(39, 67)"
+      return: 106
+    - expression: "som_iteratief(20, 53)"
+      return: 73
+    - expression: "som_iteratief(63, 21)"
+      return: 84
+    - expression: "som_iteratief(99, 63)"
+      return: 162
+    - expression: "som_iteratief(65, 79)"
+      return: 144
+    - expression: "som_iteratief(46, 16)"
+      return: 62
+    - expression: "som_iteratief(32, 95)"
+      return: 127
+    - expression: "som_iteratief(89, 81)"
+      return: 170
+    - expression: "som_iteratief(19, 57)"
+      return: 76
+    - expression: "som_iteratief(10, 54)"
+      return: 64
+    - expression: "som_iteratief(55, 15)"
+      return: 70
+    - expression: "som_iteratief(123, 957)"
+      return: 1080
+    - expression: "som_iteratief(906, 778)"
+      return: 1684
+    - expression: "som_iteratief(222, 668)"
+      return: 890
+    - expression: "som_iteratief(755, 670)"
+      return: 1425
+    - expression: "som_iteratief(934, 567)"
+      return: 1501
+    - expression: "som_iteratief(173, 423)"
+      return: 596
+    - expression: "som_iteratief(720, 567)"
+      return: 1287
+    - expression: "som_iteratief(773, 687)"
+      return: 1460
+    - expression: "som_iteratief(283, 148)"
+      return: 431
+    - expression: "som_iteratief(205, 548)"
+      return: 753
+    - expression: "som_iteratief(482, 553)"
+      return: 1035
+    - expression: "som_iteratief(436, 702)"
+      return: 1138
+    - expression: "som_iteratief(219, 130)"
+      return: 349
+    - expression: "som_iteratief(421, 707)"
+      return: 1128
+    - expression: "som_iteratief(389, 210)"
+      return: 599
+    - expression: "som_iteratief(498, 984)"
+      return: 1482
+    - expression: "som_iteratief(665, 601)"
+      return: 1266
+    - expression: "som_iteratief(182, 990)"
+      return: 1172
+    - expression: "som_iteratief(189, 791)"
+      return: 980
+    - expression: "som_iteratief(349, 460)"
+      return: 809
+    - expression: "som_iteratief(1127, 2795)"
+      return: 3922
+    - expression: "som_iteratief(4596, 1221)"
+      return: 5817
+    - expression: "som_iteratief(2603, 9735)"
+      return: 12338
+    - expression: "som_iteratief(4894, 6319)"
+      return: 11213
+    - expression: "som_iteratief(2604, 7233)"
+      return: 9837
+    - expression: "som_iteratief(4893, 1192)"
+      return: 6085
+    - expression: "som_iteratief(1766, 5040)"
+      return: 6806
+    - expression: "som_iteratief(1019, 4985)"
+      return: 6004
+    - expression: "som_iteratief(3103, 5244)"
+      return: 8347
+    - expression: "som_iteratief(7829, 8395)"
+      return: 16224
+    - expression: "som_iteratief(1182, 6106)"
+      return: 7288
+    - expression: "som_iteratief(6564, 3509)"
+      return: 10073
+    - expression: "som_iteratief(4355, 3938)"
+      return: 8293
+    - expression: "som_iteratief(5122, 5975)"
+      return: 11097
+    - expression: "som_iteratief(4289, 5550)"
+      return: 9839
+    - expression: "som_iteratief(1029, 3057)"
+      return: 4086
+    - expression: "som_iteratief(2450, 3610)"
+      return: 6060
+    - expression: "som_iteratief(9108, 2296)"
+      return: 11404
+    - expression: "som_iteratief(1733, 5880)"
+      return: 7613
+    - expression: "som_iteratief(4986, 2749)"
+      return: 7735
+    - expression: "som_iteratief(65380, 44511)"
+      return: 109891
+    - expression: "som_iteratief(44777, 39885)"
+      return: 84662
+    - expression: "som_iteratief(52429, 15993)"
+      return: 68422
+    - expression: "som_iteratief(99860, 83610)"
+      return: 183470
+    - expression: "som_iteratief(25796, 59901)"
+      return: 85697
+    - expression: "som_iteratief(88909, 70848)"
+      return: 159757
+    - expression: "som_iteratief(35213, 35077)"
+      return: 70290
+    - expression: "som_iteratief(23613, 24373)"
+      return: 47986
+    - expression: "som_iteratief(22418, 60299)"
+      return: 82717
+    - expression: "som_iteratief(44821, 72970)"
+      return: 117791
+    - expression: "som_iteratief(40893, 67969)"
+      return: 108862
+    - expression: "som_iteratief(89730, 47306)"
+      return: 137036
+    - expression: "som_iteratief(19500, 73356)"
+      return: 92856
+    - expression: "som_iteratief(13415, 88502)"
+      return: 101917
+    - expression: "som_iteratief(54522, 55651)"
+      return: 110173
+    - expression: "som_iteratief(37261, 35538)"
+      return: 72799
+    - expression: "som_iteratief(68113, 35412)"
+      return: 103525
+    - expression: "som_iteratief(71633, 78239)"
+      return: 149872
+    - expression: "som_iteratief(44793, 12081)"
+      return: 56874
+    - expression: "som_iteratief(70071, 35605)"
+      return: 105676
+    - expression: "som_iteratief(251163, 782031)"
+      return: 1033194
+    - expression: "som_iteratief(735027, 646736)"
+      return: 1381763
+    - expression: "som_iteratief(604667, 628992)"
+      return: 1233659
+    - expression: "som_iteratief(538762, 191477)"
+      return: 730239
+    - expression: "som_iteratief(435580, 629789)"
+      return: 1065369
+    - expression: "som_iteratief(514464, 429991)"
+      return: 944455
+    - expression: "som_iteratief(422687, 695278)"
+      return: 1117965
+    - expression: "som_iteratief(197279, 382397)"
+      return: 579676
+    - expression: "som_iteratief(346939, 754705)"
+      return: 1101644
+    - expression: "som_iteratief(517263, 601951)"
+      return: 1119214
+    - expression: "som_iteratief(531173, 110313)"
+      return: 641486
+    - expression: "som_iteratief(650475, 743587)"
+      return: 1394062
+    - expression: "som_iteratief(660273, 141752)"
+      return: 802025
+    - expression: "som_iteratief(163784, 280550)"
+      return: 444334
+    - expression: "som_iteratief(657040, 151524)"
+      return: 808564
+    - expression: "som_iteratief(144719, 144294)"
+      return: 289013
+    - expression: "som_iteratief(889378, 196676)"
+      return: 1086054
+    - expression: "som_iteratief(733244, 963427)"
+      return: 1696671
+    - expression: "som_iteratief(612791, 820009)"
+      return: 1432800
+    - expression: "som_iteratief(377401, 568806)"
+      return: 946207
 
 - tab: "som_recursief"
   testcases:
-    - expression: "som_recursief(8, 7)"
-      return: 15
-    - expression: "som_recursief(3, 9)"
-      return: 12
-    - expression: "som_recursief(4, 6)"
-      return: 10
+    - expression: "som_recursief(8, 6)"
+      return: 14
     - expression: "som_recursief(4, 9)"
       return: 13
-    - expression: "som_recursief(7, 9)"
-      return: 16
-    - expression: "som_recursief(5, 1)"
-      return: 6
-    - expression: "som_recursief(5, 2)"
-      return: 7
-    - expression: "som_recursief(3, 2)"
-      return: 5
-    - expression: "som_recursief(5, 3)"
-      return: 8
-    - expression: "som_recursief(9, 4)"
+    - expression: "som_recursief(3, 8)"
+      return: 11
+    - expression: "som_recursief(7, 6)"
       return: 13
-    - expression: "som_recursief(3, 9)"
+    - expression: "som_recursief(6, 3)"
+      return: 9
+    - expression: "som_recursief(8, 9)"
+      return: 17
+    - expression: "som_recursief(8, 5)"
+      return: 13
+    - expression: "som_recursief(4, 3)"
+      return: 7
+    - expression: "som_recursief(3, 5)"
+      return: 8
+    - expression: "som_recursief(1, 3)"
+      return: 4
+    - expression: "som_recursief(7, 5)"
+      return: 12
+    - expression: "som_recursief(4, 4)"
+      return: 8
+    - expression: "som_recursief(10, 8)"
+      return: 18
+    - expression: "som_recursief(7, 8)"
+      return: 15
+    - expression: "som_recursief(9, 2)"
+      return: 11
+    - expression: "som_recursief(9, 2)"
+      return: 11
+    - expression: "som_recursief(3, 7)"
+      return: 10
+    - expression: "som_recursief(2, 8)"
+      return: 10
+    - expression: "som_recursief(3, 7)"
+      return: 10
+    - expression: "som_recursief(2, 10)"
       return: 12
     - expression: "som_recursief(9, 8)"
       return: 17
-    - expression: "som_recursief(3, 7)"
-      return: 10
-    - expression: "som_recursief(4, 7)"
-      return: 11
-    - expression: "som_recursief(3, 10)"
-      return: 13
-    - expression: "som_recursief(6, 2)"
+    - expression: "som_recursief(10, 2)"
+      return: 12
+    - expression: "som_recursief(4, 4)"
       return: 8
-    - expression: "som_recursief(7, 6)"
-      return: 13
-    - expression: "som_recursief(6, 7)"
-      return: 13
-    - expression: "som_recursief(2, 7)"
-      return: 9
-    - expression: "som_recursief(6, 8)"
-      return: 14
-    - expression: "som_recursief(1, 5)"
-      return: 6
-    - expression: "som_recursief(2, 9)"
+    - expression: "som_recursief(1, 10)"
       return: 11
-    - expression: "som_recursief(1, 4)"
-      return: 5
-    - expression: "som_recursief(6, 3)"
+    - expression: "som_recursief(8, 3)"
+      return: 11
+    - expression: "som_recursief(10, 1)"
+      return: 11
+    - expression: "som_recursief(5, 9)"
+      return: 14
+    - expression: "som_recursief(1, 7)"
+      return: 8
+    - expression: "som_recursief(9, 9)"
+      return: 18
+    - expression: "som_recursief(5, 1)"
+      return: 6
+    - expression: "som_recursief(1, 9)"
+      return: 10
+    - expression: "som_recursief(8, 9)"
+      return: 17
+    - expression: "som_recursief(8, 1)"
       return: 9
-    - expression: "som_recursief(6, 3)"
-      return: 9
-    - expression: "som_recursief(46, 37)"
-      return: 83
-    - expression: "som_recursief(20, 87)"
-      return: 107
-    - expression: "som_recursief(21, 70)"
-      return: 91
-    - expression: "som_recursief(80, 85)"
-      return: 165
-    - expression: "som_recursief(27, 23)"
+    - expression: "som_recursief(26, 32)"
+      return: 58
+    - expression: "som_recursief(14, 92)"
+      return: 106
+    - expression: "som_recursief(48, 21)"
+      return: 69
+    - expression: "som_recursief(21, 54)"
+      return: 75
+    - expression: "som_recursief(84, 35)"
+      return: 119
+    - expression: "som_recursief(66, 76)"
+      return: 142
+    - expression: "som_recursief(56, 62)"
+      return: 118
+    - expression: "som_recursief(83, 80)"
+      return: 163
+    - expression: "som_recursief(30, 57)"
+      return: 87
+    - expression: "som_recursief(98, 98)"
+      return: 196
+    - expression: "som_recursief(42, 59)"
+      return: 101
+    - expression: "som_recursief(46, 65)"
+      return: 111
+    - expression: "som_recursief(65, 34)"
+      return: 99
+    - expression: "som_recursief(12, 38)"
       return: 50
-    - expression: "som_recursief(97, 73)"
-      return: 170
-    - expression: "som_recursief(15, 28)"
-      return: 43
-    - expression: "som_recursief(45, 55)"
-      return: 100
-    - expression: "som_recursief(97, 94)"
-      return: 191
-    - expression: "som_recursief(16, 89)"
+    - expression: "som_recursief(60, 22)"
+      return: 82
+    - expression: "som_recursief(40, 28)"
+      return: 68
+    - expression: "som_recursief(13, 91)"
+      return: 104
+    - expression: "som_recursief(17, 42)"
+      return: 59
+    - expression: "som_recursief(66, 13)"
+      return: 79
+    - expression: "som_recursief(94, 10)"
+      return: 104
+    - expression: "som_recursief(79, 69)"
+      return: 148
+    - expression: "som_recursief(86, 69)"
+      return: 155
+    - expression: "som_recursief(83, 79)"
+      return: 162
+    - expression: "som_recursief(59, 49)"
+      return: 108
+    - expression: "som_recursief(94, 67)"
+      return: 161
+    - expression: "som_recursief(62, 65)"
+      return: 127
+    - expression: "som_recursief(95, 10)"
       return: 105
-    - expression: "som_recursief(17, 73)"
-      return: 90
-    - expression: "som_recursief(77, 94)"
-      return: 171
-    - expression: "som_recursief(71, 51)"
-      return: 122
-    - expression: "som_recursief(37, 94)"
-      return: 131
-    - expression: "som_recursief(83, 77)"
-      return: 160
-    - expression: "som_recursief(18, 97)"
-      return: 115
-    - expression: "som_recursief(47, 36)"
-      return: 83
-    - expression: "som_recursief(75, 79)"
-      return: 154
-    - expression: "som_recursief(24, 65)"
-      return: 89
-    - expression: "som_recursief(46, 54)"
-      return: 100
-    - expression: "som_recursief(84, 74)"
-      return: 158
-    - expression: "som_recursief(78, 31)"
-      return: 109
-    - expression: "som_recursief(100, 29)"
-      return: 129
-    - expression: "som_recursief(42, 41)"
-      return: 83
-    - expression: "som_recursief(10, 38)"
-      return: 48
-    - expression: "som_recursief(787, 634)"
-      return: 1421
-    - expression: "som_recursief(198, 149)"
-      return: 347
-    - expression: "som_recursief(273, 777)"
-      return: 1050
-    - expression: "som_recursief(975, 304)"
-      return: 1279
-    - expression: "som_recursief(338, 398)"
-      return: 736
-    - expression: "som_recursief(547, 901)"
-      return: 1448
-    - expression: "som_recursief(979, 364)"
-      return: 1343
-    - expression: "som_recursief(332, 716)"
-      return: 1048
-    - expression: "som_recursief(683, 489)"
-      return: 1172
-    - expression: "som_recursief(472, 970)"
-      return: 1442
-    - expression: "som_recursief(414, 347)"
+    - expression: "som_recursief(54, 78)"
+      return: 132
+    - expression: "som_recursief(39, 84)"
+      return: 123
+    - expression: "som_recursief(70, 71)"
+      return: 141
+    - expression: "som_recursief(64, 87)"
+      return: 151
+    - expression: "som_recursief(48, 43)"
+      return: 91
+    - expression: "som_recursief(13, 38)"
+      return: 51
+    - expression: "som_recursief(203, 179)"
+      return: 382
+    - expression: "som_recursief(774, 399)"
+      return: 1173
+    - expression: "som_recursief(494, 758)"
+      return: 1252
+    - expression: "som_recursief(227, 798)"
+      return: 1025
+    - expression: "som_recursief(390, 638)"
+      return: 1028
+    - expression: "som_recursief(659, 344)"
+      return: 1003
+    - expression: "som_recursief(474, 834)"
+      return: 1308
+    - expression: "som_recursief(447, 507)"
+      return: 954
+    - expression: "som_recursief(144, 251)"
+      return: 395
+    - expression: "som_recursief(825, 210)"
+      return: 1035
+    - expression: "som_recursief(453, 513)"
+      return: 966
+    - expression: "som_recursief(329, 296)"
+      return: 625
+    - expression: "som_recursief(725, 474)"
+      return: 1199
+    - expression: "som_recursief(933, 575)"
+      return: 1508
+    - expression: "som_recursief(720, 759)"
+      return: 1479
+    - expression: "som_recursief(162, 845)"
+      return: 1007
+    - expression: "som_recursief(812, 939)"
+      return: 1751
+    - expression: "som_recursief(580, 186)"
+      return: 766
+    - expression: "som_recursief(636, 245)"
+      return: 881
+    - expression: "som_recursief(394, 189)"
+      return: 583
+    - expression: "som_recursief(148, 774)"
+      return: 922
+    - expression: "som_recursief(282, 479)"
       return: 761
-    - expression: "som_recursief(892, 613)"
-      return: 1505
-    - expression: "som_recursief(863, 832)"
-      return: 1695
-    - expression: "som_recursief(999, 390)"
-      return: 1389
-    - expression: "som_recursief(259, 771)"
-      return: 1030
-    - expression: "som_recursief(623, 970)"
-      return: 1593
-    - expression: "som_recursief(217, 186)"
-      return: 403
-    - expression: "som_recursief(892, 572)"
-      return: 1464
-    - expression: "som_recursief(871, 734)"
-      return: 1605
-    - expression: "som_recursief(529, 500)"
-      return: 1029
-    - expression: "som_recursief(609, 627)"
-      return: 1236
-    - expression: "som_recursief(750, 759)"
-      return: 1509
-    - expression: "som_recursief(450, 240)"
-      return: 690
-    - expression: "som_recursief(950, 761)"
-      return: 1711
-    - expression: "som_recursief(679, 536)"
-      return: 1215
-    - expression: "som_recursief(5230, 9477)"
-      return: 14707
-    - expression: "som_recursief(7296, 8837)"
-      return: 16133
-    - expression: "som_recursief(6275, 3358)"
-      return: 9633
-    - expression: "som_recursief(9993, 8568)"
-      return: 18561
-    - expression: "som_recursief(5226, 1497)"
-      return: 6723
-    - expression: "som_recursief(6723, 6693)"
-      return: 13416
-    - expression: "som_recursief(1368, 8196)"
-      return: 9564
-    - expression: "som_recursief(4143, 5039)"
-      return: 9182
-    - expression: "som_recursief(7440, 5814)"
-      return: 13254
-    - expression: "som_recursief(9691, 8436)"
-      return: 18127
-    - expression: "som_recursief(7835, 9968)"
-      return: 17803
-    - expression: "som_recursief(3583, 6544)"
-      return: 10127
-    - expression: "som_recursief(2081, 7132)"
-      return: 9213
-    - expression: "som_recursief(6432, 7333)"
-      return: 13765
-    - expression: "som_recursief(3713, 8305)"
-      return: 12018
-    - expression: "som_recursief(8220, 6492)"
-      return: 14712
-    - expression: "som_recursief(4379, 6039)"
-      return: 10418
-    - expression: "som_recursief(2344, 8340)"
-      return: 10684
-    - expression: "som_recursief(9475, 8845)"
-      return: 18320
-    - expression: "som_recursief(4445, 2388)"
-      return: 6833
-    - expression: "som_recursief(7091, 1859)"
-      return: 8950
-    - expression: "som_recursief(6129, 6841)"
-      return: 12970
-    - expression: "som_recursief(4359, 9066)"
-      return: 13425
-    - expression: "som_recursief(4713, 3978)"
-      return: 8691
-    - expression: "som_recursief(4406, 7517)"
-      return: 11923
+    - expression: "som_recursief(840, 642)"
+      return: 1482
+    - expression: "som_recursief(143, 654)"
+      return: 797
+    - expression: "som_recursief(560, 900)"
+      return: 1460
+    - expression: "som_recursief(443, 294)"
+      return: 737
+    - expression: "som_recursief(412, 778)"
+      return: 1190
+    - expression: "som_recursief(614, 937)"
+      return: 1551
+    - expression: "som_recursief(500, 186)"
+      return: 686
+    - expression: "som_recursief(715, 751)"
+      return: 1466
+    - expression: "som_recursief(987, 780)"
+      return: 1767
+    - expression: "som_recursief(545, 898)"
+      return: 1443
+    - expression: "som_recursief(705, 610)"
+      return: 1315
