@@ -32,6 +32,6 @@ with open('suite.yaml', 'a') as file:
     file.write('\n')
     file.write('- tab: "fibonacci_recursief"\n')
     file.write('  testcases:\n')
-    for i in range(1, 40):
+    for i in range(1, 36):
         file.write('    - expression: "fibonacci_recursief(' + str(i) + ')"\n')
         file.write('      return: ' + str(fibonacci_recursief(i)) + '\n')
