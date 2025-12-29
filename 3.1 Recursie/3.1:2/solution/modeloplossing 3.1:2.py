@@ -1,12 +1,13 @@
-def aantal_manieren(n):
-    # n is een natuurlijk getal
-    if n <= 1:
-	    # voor een trap met 0 of 1 trede is het probleem al opgelost
-	    # er is maar 1 manier om een trap met 0 of 1 trede te beklimmen
-	    return 1
-    else:
-	    # het aantal trappen is minstens 2
-	    # we noteren het patroon dat we ingezien hadden
-	    return aantal_manieren(n - 1) + aantal_manieren(n - 2)
+def som_direct(a, b):
+    return a + b
 
-print(aantal_manieren(0))
+def som_iteratief(a, b):
+    for i in range(a):
+        b = b + 1
+    return b
+
+def som_recursief(a, b):
+    if b == 0:
+        return a
+    else:
+        return som_recursief(a + 1, b - 1)
