@@ -1,6 +1,6 @@
 ### Inleiding
 
-De rij van Fibonacci is wellicht het typevoorbeeld van een wiskundige rij die heel gemakkelijk recursief kan worden gedefinieerd. Als we het $$n$$-de getal van Fibonacci noteren als $$F$_n$$, kan je de rij van Fibonacci formeel definiëren als volgt:
+De rij van Fibonacci is wellicht het typevoorbeeld van een wiskundige rij die heel gemakkelijk recursief kan worden gedefinieerd. Als we het $$n$$-de getal van Fibonacci noteren als $$F_n$$, kan je de rij van Fibonacci formeel definiëren als volgt:
 * de eerste en de tweede term van de rij zijn gelijk aan 1:
 
 $$
