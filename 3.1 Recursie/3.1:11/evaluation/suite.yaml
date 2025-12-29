@@ -1,404 +1,404 @@
 - tab: "Euclides_iteratief"
   testcases:
-    - expression: "Euclides_iteratief(85834194370, 41400121825)"
-      return: 5
-    - expression: "Euclides_iteratief(91692277062, 49433561493)"
-      return: 3
-    - expression: "Euclides_iteratief(10453164383, 69197371414)"
+    - expression: "Euclides_iteratief(79903421681, 65176461494)"
       return: 1
-    - expression: "Euclides_iteratief(73394287072, 15377359543)"
+    - expression: "Euclides_iteratief(16869136807, 84247168333)"
+      return: 89
+    - expression: "Euclides_iteratief(47413724515, 84548631491)"
       return: 1
-    - expression: "Euclides_iteratief(10, 2)"
-      return: 2
-    - expression: "Euclides_iteratief(8, 2)"
-      return: 2
-    - expression: "Euclides_iteratief(6, 4)"
-      return: 2
-    - expression: "Euclides_iteratief(5, 5)"
+    - expression: "Euclides_iteratief(41105098217, 95144782000)"
+      return: 1
+    - expression: "Euclides_iteratief(10, 5)"
       return: 5
-    - expression: "Euclides_iteratief(10, 64)"
+    - expression: "Euclides_iteratief(8, 6)"
       return: 2
-    - expression: "Euclides_iteratief(54, 69)"
-      return: 3
-    - expression: "Euclides_iteratief(27, 78)"
-      return: 3
-    - expression: "Euclides_iteratief(66, 56)"
+    - expression: "Euclides_iteratief(4, 2)"
       return: 2
-    - expression: "Euclides_iteratief(886, 112)"
-      return: 2
-    - expression: "Euclides_iteratief(330, 770)"
-      return: 110
-    - expression: "Euclides_iteratief(398, 608)"
-      return: 2
-    - expression: "Euclides_iteratief(710, 876)"
-      return: 2
-    - expression: "Euclides_iteratief(3804, 2602)"
-      return: 2
-    - expression: "Euclides_iteratief(2976, 4365)"
-      return: 3
-    - expression: "Euclides_iteratief(5890, 8735)"
+    - expression: "Euclides_iteratief(6, 6)"
+      return: 6
+    - expression: "Euclides_iteratief(63, 54)"
+      return: 9
+    - expression: "Euclides_iteratief(90, 95)"
       return: 5
-    - expression: "Euclides_iteratief(2932, 4500)"
-      return: 4
-    - expression: "Euclides_iteratief(52946, 89274)"
+    - expression: "Euclides_iteratief(82, 88)"
       return: 2
-    - expression: "Euclides_iteratief(16342, 58764)"
-      return: 2
-    - expression: "Euclides_iteratief(98530, 51130)"
-      return: 10
-    - expression: "Euclides_iteratief(97764, 11514)"
-      return: 6
-    - expression: "Euclides_iteratief(604718, 340064)"
-      return: 2
-    - expression: "Euclides_iteratief(653250, 518328)"
-      return: 6
-    - expression: "Euclides_iteratief(444810, 836806)"
-      return: 2
-    - expression: "Euclides_iteratief(872406, 759470)"
-      return: 2
-    - expression: "Euclides_iteratief(4787244, 4900894)"
-      return: 2
-    - expression: "Euclides_iteratief(8423634, 6208954)"
-      return: 2
-    - expression: "Euclides_iteratief(9555382, 1364768)"
-      return: 2
-    - expression: "Euclides_iteratief(7761568, 7963486)"
-      return: 2
-    - expression: "Euclides_iteratief(34856613, 43358478)"
+    - expression: "Euclides_iteratief(69, 27)"
       return: 3
-    - expression: "Euclides_iteratief(62654732, 55900440)"
+    - expression: "Euclides_iteratief(996, 268)"
       return: 4
-    - expression: "Euclides_iteratief(53686500, 57212016)"
-      return: 12
-    - expression: "Euclides_iteratief(16092948, 73995650)"
+    - expression: "Euclides_iteratief(483, 667)"
+      return: 23
+    - expression: "Euclides_iteratief(118, 698)"
       return: 2
-    - expression: "Euclides_iteratief(829312880, 394486059)"
-      return: 11
-    - expression: "Euclides_iteratief(112166829, 478784955)"
-      return: 3
-    - expression: "Euclides_iteratief(388656706, 283495462)"
+    - expression: "Euclides_iteratief(408, 182)"
       return: 2
-    - expression: "Euclides_iteratief(951352665, 771901605)"
-      return: 15
-    - expression: "Euclides_iteratief(1541854054, 8187031636)"
-      return: 2
-    - expression: "Euclides_iteratief(1770171252, 1865973184)"
-      return: 4
-    - expression: "Euclides_iteratief(5530637770, 5196248308)"
-      return: 2
-    - expression: "Euclides_iteratief(5355161254, 1659865408)"
-      return: 2
-    - expression: "Euclides_iteratief(31459457086, 55301655696)"
-      return: 2
-    - expression: "Euclides_iteratief(90584656200, 99806388154)"
-      return: 2
-    - expression: "Euclides_iteratief(70473742044, 14622224338)"
-      return: 2
-    - expression: "Euclides_iteratief(12048091864, 89995642866)"
-      return: 2
-    - expression: "Euclides_iteratief(357722333646, 218034683940)"
-      return: 6
-    - expression: "Euclides_iteratief(100973738935, 920941136310)"
+    - expression: "Euclides_iteratief(8780, 4495)"
       return: 5
-    - expression: "Euclides_iteratief(251160636300, 854425239532)"
-      return: 4
-    - expression: "Euclides_iteratief(236380791066, 582025955246)"
+    - expression: "Euclides_iteratief(8432, 4845)"
+      return: 17
+    - expression: "Euclides_iteratief(3963, 4659)"
+      return: 3
+    - expression: "Euclides_iteratief(4902, 9009)"
+      return: 3
+    - expression: "Euclides_iteratief(42582, 30922)"
       return: 2
-    - expression: "Euclides_iteratief(6047843850824, 2553699633464)"
+    - expression: "Euclides_iteratief(25664, 98282)"
+      return: 2
+    - expression: "Euclides_iteratief(54928, 54606)"
+      return: 2
+    - expression: "Euclides_iteratief(14592, 94184)"
       return: 8
-    - expression: "Euclides_iteratief(9993549312518, 7115150916866)"
+    - expression: "Euclides_iteratief(399410, 858112)"
       return: 2
-    - expression: "Euclides_iteratief(2509325222211, 3328229004171)"
-      return: 3
-    - expression: "Euclides_iteratief(3867405188784, 6029738505184)"
-      return: 16
-    - expression: "Euclides_iteratief(68007698212888, 88141417383582)"
+    - expression: "Euclides_iteratief(903508, 301790)"
       return: 2
-    - expression: "Euclides_iteratief(12159308335566, 89182473185481)"
-      return: 3
-    - expression: "Euclides_iteratief(98633830258845, 88932016225812)"
-      return: 3
-    - expression: "Euclides_iteratief(76902562605466, 40359716748778)"
+    - expression: "Euclides_iteratief(658802, 986532)"
       return: 2
-    - expression: "Euclides_iteratief(473007634875601, 849077873337288)"
-      return: 7
-    - expression: "Euclides_iteratief(852251766020064, 848346895822224)"
-      return: 48
-    - expression: "Euclides_iteratief(774579314459713, 448782575647994)"
-      return: 7
-    - expression: "Euclides_iteratief(223352026996005, 671367571243438)"
+    - expression: "Euclides_iteratief(290710, 910844)"
+      return: 2
+    - expression: "Euclides_iteratief(7667038, 1654192)"
+      return: 2
+    - expression: "Euclides_iteratief(8030655, 7750623)"
+      return: 3
+    - expression: "Euclides_iteratief(3868094, 5988934)"
+      return: 2
+    - expression: "Euclides_iteratief(7720412, 1019904)"
+      return: 4
+    - expression: "Euclides_iteratief(15720105, 44556156)"
+      return: 3
+    - expression: "Euclides_iteratief(99254590, 38657145)"
+      return: 5
+    - expression: "Euclides_iteratief(79102371, 75698175)"
+      return: 3
+    - expression: "Euclides_iteratief(88825551, 19859754)"
+      return: 3
+    - expression: "Euclides_iteratief(740624355, 487864623)"
+      return: 3
+    - expression: "Euclides_iteratief(408245618, 322782676)"
+      return: 2
+    - expression: "Euclides_iteratief(828550686, 515622358)"
+      return: 2
+    - expression: "Euclides_iteratief(296751802, 265127682)"
+      return: 2
+    - expression: "Euclides_iteratief(5920300600, 1051182300)"
+      return: 100
+    - expression: "Euclides_iteratief(7188082344, 2607765554)"
+      return: 2
+    - expression: "Euclides_iteratief(4784949357, 5692310805)"
+      return: 3
+    - expression: "Euclides_iteratief(2423573918, 7439055693)"
       return: 19
-    - expression: "Euclides_iteratief(7112928869221462, 3952990308240802)"
+    - expression: "Euclides_iteratief(99831547142, 89694668220)"
       return: 2
-    - expression: "Euclides_iteratief(8192148661380250, 2933767647526250)"
-      return: 250
-    - expression: "Euclides_iteratief(1774763389464060, 9020735017420050)"
-      return: 30
-    - expression: "Euclides_iteratief(4463079844657444, 4762146357806080)"
+    - expression: "Euclides_iteratief(68737915370, 73047581978)"
+      return: 2
+    - expression: "Euclides_iteratief(96089083412, 15970342478)"
+      return: 62
+    - expression: "Euclides_iteratief(80427949846, 60826791510)"
+      return: 2
+    - expression: "Euclides_iteratief(525682388188, 794330081016)"
       return: 4
-    - expression: "Euclides_iteratief(68152859598833348, 17205573755772442)"
-      return: 2
-    - expression: "Euclides_iteratief(71125517848806854, 15071309870788444)"
-      return: 2
-    - expression: "Euclides_iteratief(23922626979811298, 40555601407899846)"
-      return: 2
-    - expression: "Euclides_iteratief(35131077944804896, 47392521970868750)"
-      return: 2
-    - expression: "Euclides_iteratief(707190582305000330, 788514790950734724)"
-      return: 2
-    - expression: "Euclides_iteratief(317472637623762746, 170746147649378958)"
-      return: 2
-    - expression: "Euclides_iteratief(547777996918508446, 311351598471045906)"
-      return: 2
-    - expression: "Euclides_iteratief(307808414714420134, 981360324477393990)"
-      return: 2
-    - expression: "Euclides_iteratief(2442935341888295404, 6465726394738107716)"
-      return: 4
-    - expression: "Euclides_iteratief(3382973575595279274, 2282628282417864944)"
-      return: 34
-    - expression: "Euclides_iteratief(7036229631239893683, 6582257237386147272)"
+    - expression: "Euclides_iteratief(471473268711, 328096793562)"
       return: 3
-    - expression: "Euclides_iteratief(9072258469451070024, 2981111982461547774)"
+    - expression: "Euclides_iteratief(664905554844, 230265989566)"
+      return: 2
+    - expression: "Euclides_iteratief(687842395386, 423455461920)"
       return: 6
-    - expression: "Euclides_iteratief(68655701747940264883, 87538335425136388285)"
-      return: 17
-    - expression: "Euclides_iteratief(79566528318895920247, 72411146594822368311)"
+    - expression: "Euclides_iteratief(8905156423415, 2497579674340)"
+      return: 5
+    - expression: "Euclides_iteratief(3123732464987, 4156529006619)"
+      return: 41
+    - expression: "Euclides_iteratief(5288597136202, 3589732336086)"
+      return: 2
+    - expression: "Euclides_iteratief(3844917226274, 1437596954582)"
+      return: 2
+    - expression: "Euclides_iteratief(51527895446898, 91127418727479)"
+      return: 3
+    - expression: "Euclides_iteratief(25972625653320, 63541810881624)"
+      return: 24
+    - expression: "Euclides_iteratief(80475494260524, 19579765929977)"
       return: 11
-    - expression: "Euclides_iteratief(18640166096973109731, 36066752441196139140)"
-      return: 3
-    - expression: "Euclides_iteratief(81156071137643789628, 71099890794734708050)"
-      return: 2
-    - expression: "Euclides_iteratief(882841349479087627209, 248038712970897095817)"
-      return: 3
-    - expression: "Euclides_iteratief(146681869584557539056, 496051251884118809132)"
-      return: 4
-    - expression: "Euclides_iteratief(569505835309360830140, 545492520319417496196)"
-      return: 4
-    - expression: "Euclides_iteratief(282069736106318819550, 418177404852985882145)"
+    - expression: "Euclides_iteratief(92532436092565, 93495279721150)"
       return: 5
-    - expression: "Euclides_iteratief(3208888655169078307119, 1346015170012462289701)"
-      return: 17
-    - expression: "Euclides_iteratief(4331237097683711955014, 8083987602637668355315)"
+    - expression: "Euclides_iteratief(670830899844430, 484699699496474)"
+      return: 2
+    - expression: "Euclides_iteratief(848595054406126, 934122023762438)"
+      return: 2
+    - expression: "Euclides_iteratief(360987782402134, 450754533486166)"
+      return: 2
+    - expression: "Euclides_iteratief(868763165837742, 212527546947568)"
+      return: 2
+    - expression: "Euclides_iteratief(4403428500142737, 6777202607661804)"
+      return: 3
+    - expression: "Euclides_iteratief(7797556691096085, 3380504163503523)"
+      return: 3
+    - expression: "Euclides_iteratief(2199367560996621, 5187708932198055)"
+      return: 3
+    - expression: "Euclides_iteratief(2663772653394880, 4654673264273580)"
+      return: 20
+    - expression: "Euclides_iteratief(41925067340023012, 57525329072137578)"
+      return: 2
+    - expression: "Euclides_iteratief(91874095984857134, 71565265671637950)"
+      return: 2
+    - expression: "Euclides_iteratief(26379758635925878, 92742517680673068)"
+      return: 2
+    - expression: "Euclides_iteratief(41723727718881993, 60217516110117960)"
+      return: 3
+    - expression: "Euclides_iteratief(727638179947023446, 881071664336886296)"
+      return: 2
+    - expression: "Euclides_iteratief(722782847411909412, 181152009655908102)"
+      return: 6
+    - expression: "Euclides_iteratief(423299954307961662, 294748336317064845)"
+      return: 3
+    - expression: "Euclides_iteratief(779875593157490800, 738978716847487732)"
+      return: 4
+    - expression: "Euclides_iteratief(8259458110430531754, 8547122217822999261)"
+      return: 3
+    - expression: "Euclides_iteratief(2310865518067051935, 3313757327043966616)"
       return: 11
-    - expression: "Euclides_iteratief(9221826021968698061368, 4071055400575994383966)"
+    - expression: "Euclides_iteratief(1296285343406758456, 9064896745281381766)"
       return: 2
-    - expression: "Euclides_iteratief(8867300220765237190710, 4425355988437781499575)"
-      return: 5
-    - expression: "Euclides_iteratief(34420369219540468301710, 19803978117683546509815)"
-      return: 5
-    - expression: "Euclides_iteratief(68489012673375437909204, 85140201037012262447168)"
-      return: 4
-    - expression: "Euclides_iteratief(95443365289127140264448, 58650083640947362862612)"
-      return: 4
-    - expression: "Euclides_iteratief(95655632978148348911292, 10105339243618916258469)"
-      return: 3
-    - expression: "Euclides_iteratief(648811031864180700706732, 114550738289831933725760)"
-      return: 4
-    - expression: "Euclides_iteratief(304176310611159379941290, 212314267537022542829858)"
+    - expression: "Euclides_iteratief(9317016503568282912, 2636791586200760590)"
       return: 2
-    - expression: "Euclides_iteratief(287261516517575823414261, 453773167882204333203267)"
+    - expression: "Euclides_iteratief(38241389111125060594, 29746144157911079928)"
+      return: 2
+    - expression: "Euclides_iteratief(23091825599184088616, 56774573740559625244)"
+      return: 4
+    - expression: "Euclides_iteratief(12000428314091488722, 15036219632514689805)"
       return: 3
-    - expression: "Euclides_iteratief(296989480713234945787773, 566220606131349129300114)"
+    - expression: "Euclides_iteratief(85441849389754956244, 56249866465826146884)"
+      return: 4
+    - expression: "Euclides_iteratief(738035550080478536782, 962471078668442044628)"
+      return: 2
+    - expression: "Euclides_iteratief(430835229774109894950, 345345988396623708771)"
+      return: 9
+    - expression: "Euclides_iteratief(734248922596493462823, 816230730949592223240)"
       return: 3
+    - expression: "Euclides_iteratief(248857129746905019598, 218829605001785741576)"
+      return: 2
+    - expression: "Euclides_iteratief(2107629575141087237942, 4838100205839245093660)"
+      return: 2
+    - expression: "Euclides_iteratief(1242243922335531534834, 7468225858547332727782)"
+      return: 2
+    - expression: "Euclides_iteratief(5131807980155798094996, 6223875949411402853588)"
+      return: 4
+    - expression: "Euclides_iteratief(9689018647796328560132, 8301354556287459142466)"
+      return: 2
+    - expression: "Euclides_iteratief(49604048680980308944686, 78687389302201081924328)"
+      return: 2
+    - expression: "Euclides_iteratief(84391076643884041257784, 23555017170765820606482)"
+      return: 2
+    - expression: "Euclides_iteratief(44976417091994265083844, 46924171209661498892686)"
+      return: 2
+    - expression: "Euclides_iteratief(98396391630178118906128, 16129006499296846899862)"
+      return: 2
+    - expression: "Euclides_iteratief(570677964677573111794008, 154463066496041940171198)"
+      return: 18
+    - expression: "Euclides_iteratief(960641985298941358884551, 282555528219361854934116)"
+      return: 173
+    - expression: "Euclides_iteratief(476330840802331889901306, 607448731639204464817978)"
+      return: 2
+    - expression: "Euclides_iteratief(961420779815283849039316, 804571995399191111580426)"
+      return: 2
 - tab: "Euclides_recursief"
   testcases:
-    - expression: "Euclides_recursief(50112456955, 67169607988)"
+    - expression: "Euclides_recursief(16934376879, 56422214895)"
+      return: 3
+    - expression: "Euclides_recursief(85537616204, 73724904581)"
       return: 1
-    - expression: "Euclides_recursief(14340620896, 57158444647)"
-      return: 1
-    - expression: "Euclides_recursief(50253521287, 34912777095)"
-      return: 1
-    - expression: "Euclides_recursief(71877352060, 43084912923)"
-      return: 1
-    - expression: "Euclides_recursief(6, 10)"
+    - expression: "Euclides_recursief(63616234652, 15165569502)"
       return: 2
-    - expression: "Euclides_recursief(5, 10)"
-      return: 5
+    - expression: "Euclides_recursief(93059622517, 43814993281)"
+      return: 1
+    - expression: "Euclides_recursief(4, 10)"
+      return: 2
+    - expression: "Euclides_recursief(2, 6)"
+      return: 2
     - expression: "Euclides_recursief(6, 9)"
       return: 3
-    - expression: "Euclides_recursief(6, 6)"
-      return: 6
-    - expression: "Euclides_recursief(76, 36)"
-      return: 4
-    - expression: "Euclides_recursief(52, 91)"
-      return: 13
-    - expression: "Euclides_recursief(94, 62)"
+    - expression: "Euclides_recursief(10, 6)"
       return: 2
-    - expression: "Euclides_recursief(99, 48)"
+    - expression: "Euclides_recursief(34, 68)"
+      return: 34
+    - expression: "Euclides_recursief(21, 70)"
+      return: 7
+    - expression: "Euclides_recursief(82, 48)"
+      return: 2
+    - expression: "Euclides_recursief(50, 92)"
+      return: 2
+    - expression: "Euclides_recursief(177, 903)"
       return: 3
-    - expression: "Euclides_recursief(685, 985)"
-      return: 5
-    - expression: "Euclides_recursief(774, 734)"
+    - expression: "Euclides_recursief(555, 954)"
+      return: 3
+    - expression: "Euclides_recursief(270, 702)"
+      return: 54
+    - expression: "Euclides_recursief(960, 702)"
+      return: 6
+    - expression: "Euclides_recursief(3160, 1076)"
+      return: 4
+    - expression: "Euclides_recursief(6664, 5178)"
       return: 2
-    - expression: "Euclides_recursief(780, 384)"
-      return: 12
-    - expression: "Euclides_recursief(999, 370)"
+    - expression: "Euclides_recursief(2706, 9381)"
+      return: 3
+    - expression: "Euclides_recursief(8905, 8410)"
+      return: 5
+    - expression: "Euclides_recursief(72536, 34396)"
+      return: 4
+    - expression: "Euclides_recursief(61366, 84230)"
+      return: 2
+    - expression: "Euclides_recursief(65940, 72373)"
+      return: 7
+    - expression: "Euclides_recursief(26032, 91714)"
+      return: 2
+    - expression: "Euclides_recursief(377229, 194031)"
+      return: 3
+    - expression: "Euclides_recursief(310990, 247706)"
+      return: 2
+    - expression: "Euclides_recursief(737185, 213130)"
+      return: 5
+    - expression: "Euclides_recursief(672549, 156473)"
       return: 37
-    - expression: "Euclides_recursief(4604, 5344)"
-      return: 4
-    - expression: "Euclides_recursief(3340, 3150)"
-      return: 10
-    - expression: "Euclides_recursief(5589, 1218)"
-      return: 3
-    - expression: "Euclides_recursief(3058, 6985)"
-      return: 11
-    - expression: "Euclides_recursief(19736, 84442)"
-      return: 2
-    - expression: "Euclides_recursief(31626, 53994)"
+    - expression: "Euclides_recursief(2131242, 4033518)"
       return: 6
-    - expression: "Euclides_recursief(62344, 27084)"
+    - expression: "Euclides_recursief(9255366, 1869812)"
+      return: 2
+    - expression: "Euclides_recursief(4608634, 4945754)"
+      return: 2
+    - expression: "Euclides_recursief(5138412, 4895046)"
+      return: 6
+    - expression: "Euclides_recursief(34653128, 20369506)"
+      return: 2
+    - expression: "Euclides_recursief(24123514, 37907772)"
+      return: 2
+    - expression: "Euclides_recursief(14736616, 46203058)"
+      return: 2
+    - expression: "Euclides_recursief(46678308, 81771970)"
+      return: 2
+    - expression: "Euclides_recursief(371247656, 338784268)"
       return: 4
-    - expression: "Euclides_recursief(71256, 45928)"
-      return: 8
-    - expression: "Euclides_recursief(611559, 556680)"
-      return: 3
-    - expression: "Euclides_recursief(304094, 500653)"
-      return: 107
-    - expression: "Euclides_recursief(182015, 516750)"
+    - expression: "Euclides_recursief(137513892, 141075822)"
+      return: 6
+    - expression: "Euclides_recursief(527551626, 890984128)"
+      return: 2
+    - expression: "Euclides_recursief(361171526, 956193876)"
+      return: 2
+    - expression: "Euclides_recursief(5865508395, 8496860785)"
       return: 5
-    - expression: "Euclides_recursief(714665, 410277)"
-      return: 49
-    - expression: "Euclides_recursief(8376279, 5218050)"
-      return: 3
-    - expression: "Euclides_recursief(4512406, 8897914)"
-      return: 2
-    - expression: "Euclides_recursief(4728116, 6927892)"
+    - expression: "Euclides_recursief(9020935884, 5038694396)"
       return: 4
-    - expression: "Euclides_recursief(5353587, 5616552)"
+    - expression: "Euclides_recursief(9846710268, 4926808156)"
+      return: 4
+    - expression: "Euclides_recursief(4987667670, 5149145601)"
       return: 3
-    - expression: "Euclides_recursief(47547656, 65553241)"
-      return: 13
-    - expression: "Euclides_recursief(76072336, 40886085)"
-      return: 29
-    - expression: "Euclides_recursief(60844426, 98366772)"
+    - expression: "Euclides_recursief(94377987204, 76358396694)"
+      return: 6
+    - expression: "Euclides_recursief(99370004996, 94730268310)"
       return: 2
-    - expression: "Euclides_recursief(74891928, 15522276)"
+    - expression: "Euclides_recursief(53207035161, 89293924866)"
+      return: 3
+    - expression: "Euclides_recursief(82674156966, 47047941810)"
+      return: 6
+    - expression: "Euclides_recursief(736296152766, 592977177820)"
+      return: 34
+    - expression: "Euclides_recursief(761893783626, 437780189698)"
+      return: 2
+    - expression: "Euclides_recursief(952088270649, 648662937819)"
+      return: 3
+    - expression: "Euclides_recursief(529737721358, 799200795220)"
+      return: 2
+    - expression: "Euclides_recursief(8526373764124, 8553488241808)"
+      return: 4
+    - expression: "Euclides_recursief(5425487447030, 7196807511128)"
+      return: 2
+    - expression: "Euclides_recursief(6017119517420, 1041829386846)"
+      return: 2
+    - expression: "Euclides_recursief(6865173458208, 1630498884980)"
+      return: 4
+    - expression: "Euclides_recursief(66399788645151, 49648807162179)"
+      return: 3
+    - expression: "Euclides_recursief(37267416227530, 81394955221458)"
+      return: 2
+    - expression: "Euclides_recursief(86699728476111, 36878137092306)"
+      return: 3
+    - expression: "Euclides_recursief(29474132985689, 40804019547984)"
+      return: 7
+    - expression: "Euclides_recursief(271004914868822, 641198407960428)"
+      return: 2
+    - expression: "Euclides_recursief(341608983459996, 386320900795860)"
       return: 12
-    - expression: "Euclides_recursief(449857290, 381436989)"
-      return: 3
-    - expression: "Euclides_recursief(918244024, 372053370)"
+    - expression: "Euclides_recursief(797287855704264, 763655029788362)"
       return: 2
-    - expression: "Euclides_recursief(170413347, 176603151)"
-      return: 3
-    - expression: "Euclides_recursief(769510040, 634627492)"
-      return: 4
-    - expression: "Euclides_recursief(5432583168, 7341354718)"
+    - expression: "Euclides_recursief(826029615841280, 339092366138638)"
       return: 2
-    - expression: "Euclides_recursief(6515890814, 4733712188)"
-      return: 2
-    - expression: "Euclides_recursief(4140932510, 6769186492)"
-      return: 2
-    - expression: "Euclides_recursief(3798196536, 1532015391)"
-      return: 3
-    - expression: "Euclides_recursief(26169730895, 52749654115)"
-      return: 5
-    - expression: "Euclides_recursief(27740879464, 81667997442)"
-      return: 2
-    - expression: "Euclides_recursief(45755317838, 55350901012)"
-      return: 2
-    - expression: "Euclides_recursief(49169801598, 58878051093)"
-      return: 3
-    - expression: "Euclides_recursief(529875488846, 541668657038)"
-      return: 2
-    - expression: "Euclides_recursief(507366841362, 459434137377)"
-      return: 3
-    - expression: "Euclides_recursief(315403499579, 955777470333)"
-      return: 7
-    - expression: "Euclides_recursief(885080333016, 110632161376)"
-      return: 88
-    - expression: "Euclides_recursief(2391317217384, 7339284366597)"
-      return: 3
-    - expression: "Euclides_recursief(2715944898627, 4208688150528)"
-      return: 3
-    - expression: "Euclides_recursief(5750559858476, 7887298041180)"
-      return: 4
-    - expression: "Euclides_recursief(1784798738596, 2859132820326)"
-      return: 2
-    - expression: "Euclides_recursief(32794257443751, 35343294208875)"
-      return: 9
-    - expression: "Euclides_recursief(74261149887356, 69827899412710)"
-      return: 2
-    - expression: "Euclides_recursief(51852076746222, 36485688483060)"
+    - expression: "Euclides_recursief(2626360449570642, 1380546212979186)"
       return: 6
-    - expression: "Euclides_recursief(28076895014767, 63504010547600)"
-      return: 89
-    - expression: "Euclides_recursief(439068516637500, 621360467817448)"
-      return: 4
-    - expression: "Euclides_recursief(476586385073407, 951516947531276)"
+    - expression: "Euclides_recursief(5790217248664185, 5746015828634490)"
+      return: 15
+    - expression: "Euclides_recursief(2869326036311242, 2609894723065365)"
+      return: 131
+    - expression: "Euclides_recursief(2430689572300997, 5871183555978951)"
       return: 7
-    - expression: "Euclides_recursief(159019385862792, 999231634415822)"
+    - expression: "Euclides_recursief(35119402668058670, 70353876664313496)"
       return: 2
-    - expression: "Euclides_recursief(350441877635239, 144424214499929)"
-      return: 13
-    - expression: "Euclides_recursief(7795654209360134, 6477982457989018)"
+    - expression: "Euclides_recursief(52798343296882866, 78657571542463382)"
       return: 2
-    - expression: "Euclides_recursief(1545147200428275, 8293870566108459)"
-      return: 3
-    - expression: "Euclides_recursief(1995536234598138, 3360457849460474)"
+    - expression: "Euclides_recursief(57350878697779946, 96943990993143458)"
       return: 2
-    - expression: "Euclides_recursief(2213286765637396, 9045167967308402)"
-      return: 2
-    - expression: "Euclides_recursief(37920081649804746, 59997685450834251)"
-      return: 3
-    - expression: "Euclides_recursief(90283923493630556, 10315436826809240)"
-      return: 4
-    - expression: "Euclides_recursief(95798135242523757, 56170430495865978)"
-      return: 3
-    - expression: "Euclides_recursief(76031093136808815, 69547396735266897)"
-      return: 51
-    - expression: "Euclides_recursief(983212360872413910, 981381406104202622)"
-      return: 2
-    - expression: "Euclides_recursief(718756215654692061, 874196596738624164)"
-      return: 3
-    - expression: "Euclides_recursief(506227913131910035, 968794946574552108)"
-      return: 11
-    - expression: "Euclides_recursief(684842523978760059, 580568492432028980)"
-      return: 11
-    - expression: "Euclides_recursief(5899458173153288816, 4687874112283889216)"
-      return: 16
-    - expression: "Euclides_recursief(5772353497660101792, 2729614230156830648)"
+    - expression: "Euclides_recursief(53492692204593320, 89538419213907088)"
       return: 8
-    - expression: "Euclides_recursief(8548033593803983910, 3447976237322005945)"
-      return: 5
-    - expression: "Euclides_recursief(5847560025087086613, 5927065919873645895)"
-      return: 9
-    - expression: "Euclides_recursief(73011912418213496032, 72466691744705454226)"
-      return: 2
-    - expression: "Euclides_recursief(36435872332230417357, 80545127078244356271)"
+    - expression: "Euclides_recursief(954491196859658979, 898398082159496577)"
       return: 3
-    - expression: "Euclides_recursief(17286018485726056278, 22198638038243997402)"
-      return: 138
-    - expression: "Euclides_recursief(17800530389289828464, 19435045783107584546)"
-      return: 2
-    - expression: "Euclides_recursief(147168723911907632882, 150319361480837733874)"
-      return: 2
-    - expression: "Euclides_recursief(665187247485539522722, 861534592978240157188)"
-      return: 2
-    - expression: "Euclides_recursief(241185079547660904530, 693629578744347887257)"
+    - expression: "Euclides_recursief(347232000513824881, 217602036329561660)"
       return: 7
-    - expression: "Euclides_recursief(450371277258611125440, 920981333531151602626)"
-      return: 2
-    - expression: "Euclides_recursief(8165821636112585455097, 2234844632856590806354)"
-      return: 19
-    - expression: "Euclides_recursief(8373661371839068943814, 4498045067102102836701)"
+    - expression: "Euclides_recursief(432076438018388920, 997656222083259094)"
+      return: 778
+    - expression: "Euclides_recursief(271035339543048210, 150091343868697965)"
+      return: 255
+    - expression: "Euclides_recursief(7905215471074806921, 2151501104063438775)"
       return: 3
-    - expression: "Euclides_recursief(2771156070225941179359, 9576931256261511137166)"
-      return: 3
-    - expression: "Euclides_recursief(8830343476867416924414, 2326226363921242122938)"
-      return: 2
-    - expression: "Euclides_recursief(83290489374792531938424, 29488475020515877794174)"
-      return: 6
-    - expression: "Euclides_recursief(89038171049553940392586, 83325601011283907623378)"
-      return: 2
-    - expression: "Euclides_recursief(35872837200208206292347, 54244379558384542204971)"
-      return: 3
-    - expression: "Euclides_recursief(34157002079044868495612, 19668251326888307749316)"
+    - expression: "Euclides_recursief(8037318997677885624, 8433196414998500908)"
       return: 4
-    - expression: "Euclides_recursief(937440679835550515985262, 880515141958298743978770)"
+    - expression: "Euclides_recursief(1408208560055478576, 3125135430052320616)"
+      return: 8
+    - expression: "Euclides_recursief(6923478405316701318, 9988906451443412378)"
       return: 2
-    - expression: "Euclides_recursief(190176502379301600517803, 264466019259398206390218)"
-      return: 3
-    - expression: "Euclides_recursief(481150708016010133941402, 678717410407878344714355)"
-      return: 3
-    - expression: "Euclides_recursief(600489733185666239146262, 620371166038707864764572)"
+    - expression: "Euclides_recursief(32375767716677534360, 15450243126742819552)"
+      return: 8
+    - expression: "Euclides_recursief(62566531077938090846, 72683087955069470578)"
       return: 2
+    - expression: "Euclides_recursief(25987319446077023430, 53316268165180109373)"
+      return: 3
+    - expression: "Euclides_recursief(39372990909012190959, 51330433326997163100)"
+      return: 3
+    - expression: "Euclides_recursief(739735961403733388906, 676972362056922022768)"
+      return: 2
+    - expression: "Euclides_recursief(858963903395111179080, 323522186906503823169)"
+      return: 69
+    - expression: "Euclides_recursief(233488631766170974082, 248434604601757908026)"
+      return: 2
+    - expression: "Euclides_recursief(693901257600373841634, 942909440569692981057)"
+      return: 3
+    - expression: "Euclides_recursief(1280830701174254508291, 8146366325024957289846)"
+      return: 3
+    - expression: "Euclides_recursief(4024206595502830412214, 8742332426858256963412)"
+      return: 2
+    - expression: "Euclides_recursief(5617195005308603927682, 1465296816523947099332)"
+      return: 2
+    - expression: "Euclides_recursief(4945901842279964175764, 9649088068834462978176)"
+      return: 4
+    - expression: "Euclides_recursief(27776738467700365203090, 72405027564814406338615)"
+      return: 5
+    - expression: "Euclides_recursief(92505948066808477761672, 82299157293212796897624)"
+      return: 24
+    - expression: "Euclides_recursief(18149115977074057729059, 80181833498362779237375)"
+      return: 3
+    - expression: "Euclides_recursief(52502202008552604632475, 94614834380293533315310)"
+      return: 5
+    - expression: "Euclides_recursief(358608971252046263304670, 873054924580989193073466)"
+      return: 2
+    - expression: "Euclides_recursief(116073414671528410291310, 590197160777301513279174)"
+      return: 2
+    - expression: "Euclides_recursief(138442145351177194298208, 764324645831712325470932)"
+      return: 4
+    - expression: "Euclides_recursief(739670798654691427188872, 355464955842365989392204)"
+      return: 4
