@@ -10,7 +10,7 @@ $$
 * elke volgende term is gelijk aan de som van de twee voorgaande termen: 
 
 $$
-F_n = F_{n-1} + F_{n-2} \hspace{2cm} (n \geq 3)
+F_n = F_{n-1} + F_{n-2} \hspace{1cm} (n \geq 3)
 $$
 
 De rij van Fibonacci bestaat dus uit de getallen 1, 1, 2, 3, 5, 8, 13, 21, … 
