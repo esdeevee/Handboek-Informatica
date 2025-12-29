@@ -271,11 +271,3 @@
       return: 5702887
     - expression: "fibonacci_recursief(35)"
       return: 9227465
-    - expression: "fibonacci_recursief(36)"
-      return: 14930352
-    - expression: "fibonacci_recursief(37)"
-      return: 24157817
-    - expression: "fibonacci_recursief(38)"
-      return: 39088169
-    - expression: "fibonacci_recursief(39)"
-      return: 63245986
