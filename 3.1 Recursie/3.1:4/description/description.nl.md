@@ -12,26 +12,26 @@ Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
 **Invoer:**
 
-    > product_direct(12, 5)
+    > macht_direct(28, 2)
 
 **Uitvoer:**
 
-    60
+    784
 
 
 **Invoer:**
 
-    > product_iteratief(6, 7)
+    > macht_iteratief(48, 3) 
 
 **Uitvoer:**
 
-    42
+    41105922
 
 
 **Invoer:**
 
-    > product_recursief(13, 38)
+    > macht_recursief(80, 3)
 
 **Uitvoer:**
 
-    494
+    512000
