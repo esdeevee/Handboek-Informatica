@@ -1,0 +1,72 @@
+- tab: "aantal_manieren_betalen"
+  testcases:
+    - expression: "aantal_manieren_betalen(1)"
+      return: 1
+    - expression: "aantal_manieren_betalen(2)"
+      return: 2
+    - expression: "aantal_manieren_betalen(3)"
+      return: 3
+    - expression: "aantal_manieren_betalen(4)"
+      return: 5
+    - expression: "aantal_manieren_betalen(5)"
+      return: 9
+    - expression: "aantal_manieren_betalen(6)"
+      return: 15
+    - expression: "aantal_manieren_betalen(7)"
+      return: 26
+    - expression: "aantal_manieren_betalen(8)"
+      return: 44
+    - expression: "aantal_manieren_betalen(9)"
+      return: 75
+    - expression: "aantal_manieren_betalen(10)"
+      return: 128
+    - expression: "aantal_manieren_betalen(11)"
+      return: 218
+    - expression: "aantal_manieren_betalen(12)"
+      return: 372
+    - expression: "aantal_manieren_betalen(13)"
+      return: 634
+    - expression: "aantal_manieren_betalen(14)"
+      return: 1081
+    - expression: "aantal_manieren_betalen(15)"
+      return: 1843
+    - expression: "aantal_manieren_betalen(16)"
+      return: 3142
+    - expression: "aantal_manieren_betalen(17)"
+      return: 5357
+    - expression: "aantal_manieren_betalen(18)"
+      return: 9133
+    - expression: "aantal_manieren_betalen(19)"
+      return: 15571
+    - expression: "aantal_manieren_betalen(20)"
+      return: 26547
+    - expression: "aantal_manieren_betalen(21)"
+      return: 45260
+    - expression: "aantal_manieren_betalen(22)"
+      return: 77164
+    - expression: "aantal_manieren_betalen(23)"
+      return: 131557
+    - expression: "aantal_manieren_betalen(24)"
+      return: 224292
+    - expression: "aantal_manieren_betalen(25)"
+      return: 382396
+    - expression: "aantal_manieren_betalen(26)"
+      return: 651948
+    - expression: "aantal_manieren_betalen(27)"
+      return: 1111508
+    - expression: "aantal_manieren_betalen(28)"
+      return: 1895013
+    - expression: "aantal_manieren_betalen(29)"
+      return: 3230813
+    - expression: "aantal_manieren_betalen(30)"
+      return: 5508222
+    - expression: "aantal_manieren_betalen(31)"
+      return: 9390983
+    - expression: "aantal_manieren_betalen(32)"
+      return: 16010713
+    - expression: "aantal_manieren_betalen(33)"
+      return: 27296709
+    - expression: "aantal_manieren_betalen(34)"
+      return: 46538235
+    - expression: "aantal_manieren_betalen(35)"
+      return: 79343166
