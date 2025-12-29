@@ -23,15 +23,15 @@ Dat alles maakt dat we de functie `aantal_manieren(n)` op een subtiele manier ku
 
 ```python
 def aantal_manieren(n):
-	# n is een natuurlijk getal
+    # n is een natuurlijk getal
     if n <= 1:
-		# voor een trap met 0 of 1 trede is het probleem al opgelost
-		# er is maar 1 manier om een trap met 0 of 1 trede te beklimmen
-		return 1
+        # voor een trap met 0 of 1 trede is het probleem al opgelost
+        # er is maar 1 manier om een trap met 0 of 1 trede te beklimmen
+        return 1
     else:
-		# het aantal trappen is minstens 2
-		# we noteren het patroon dat we ingezien hadden
-		return aantal_manieren(n - 1) + aantal_manieren(n - 2)
+        # het aantal trappen is minstens 2
+        # we noteren het patroon dat we ingezien hadden
+        return aantal_manieren(n - 1) + aantal_manieren(n - 2)
 
 print(aantal_manieren(0))
 ```
