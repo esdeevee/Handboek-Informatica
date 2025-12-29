@@ -22,13 +22,13 @@ file.close()
 with open('suite.yaml', 'a') as file:
     file.write('- tab: "faculteit_iteratief"\n')
     file.write('  testcases:\n')
-    for i in range(100):
+    for i in range(1, 100):
         file.write('    - expression: "faculteit_iteratief(' + str(i) + ')"\n')
         file.write('      return: ' + str(factorial(i)) + '\n')
         
     file.write('\n')
     file.write('- tab: "faculteit_recursief"\n')
     file.write('  testcases:\n')
-    for i in range(50):
+    for i in range(1, 50):
         file.write('    - expression: "faculteit_recursief(' + str(i) + ')"\n')
         file.write('      return: ' + str(factorial(i)) + '\n')

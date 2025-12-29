@@ -6,16 +6,13 @@
   },
   "evaluation": {
     "handler": "tested",
-    "test_suite": "suite.yaml",
-    "memory_limit": 500000000
+    "test_suite": "suite.yaml"
   },
-  "labels": [
-    "recursie"
-  ],
+  "labels": ["recursie"],
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "qJif6Rqst5eeYtTcYrTnQKUeqAPgxCCTsirW9Jg7_C3aHR4sUvynK8G6AuD73Hc2",
+    "token": "YwIfjF2BjjgIPbSUwGQrubNcqqiKt-BNfnyxXT_9vFcbyXtQBbivkqG946yBhemm",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -1,8 +1,10 @@
 ### Opgave
 
-In de wiskunde is de faculteit van een natuurlijk getal $n$ gedefinieerd als volgt:
+In de wiskunde is de faculteit van een natuurlijk getal $$n$$ gedefinieerd als volgt:
 	
-    $$n! = n \cdot (n-1) \cdot \ldots \cdot 3 \cdot 2 \cdot 1.$$
+$$
+n! = n \cdot (n-1) \cdot \ldots \cdot 3 \cdot 2 \cdot 1.
+$$
 
 * Schrijf een functie `faculteit_iteratief(n)` die op een iteratieve manier $$n!$$ berekent en teruggeeft. 
 * Schrijf een functie `faculteit_recursief(n)` die op een recursieve manier $$n!$$ berekent en teruggeeft. 

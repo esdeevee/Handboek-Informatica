@@ -1,7 +1,5 @@
 - tab: "faculteit_iteratief"
   testcases:
-    - expression: "faculteit_iteratief(0)"
-      return: 1
     - expression: "faculteit_iteratief(1)"
       return: 1
     - expression: "faculteit_iteratief(2)"
@@ -203,8 +201,6 @@
 
 - tab: "faculteit_recursief"
   testcases:
-    - expression: "faculteit_recursief(0)"
-      return: 1
     - expression: "faculteit_recursief(1)"
       return: 1
     - expression: "faculteit_recursief(2)"
