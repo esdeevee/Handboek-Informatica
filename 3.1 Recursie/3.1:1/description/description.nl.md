@@ -17,7 +17,7 @@ Stel dat we een functie `aantal_manieren(n)` zouden hebben die het antwoord geef
 
 De oplossing van ons probleem is dus de som van de oplossingen van twee eenvoudigere problemen. Je zou dan kunnen denken dat we het probleem alleen maar verschuiven, want als we `aantal_manieren(n)` niet kennen, hoe zouden we `aantal_manieren(n-1)` en `aantal_manieren(n-2)` dan wel kunnen berekenen?
 
-Om deze vraag te beantwoorden, moet je je realiseren dat `n` een natuurlijk getal is. Er bestaat geen grootste natuurlijk getal, maar de verzameling $\mathbb{N}$ is wel naar onder begrensd. 0 en 1 zijn de twee kleinste natuurlijke getallen. 
+Om deze vraag te beantwoorden, moet je je realiseren dat `n` een natuurlijk getal is. Er bestaat geen grootste natuurlijk getal, maar de verzameling $$\mathbb{N}$$ is wel naar onder begrensd. 0 en 1 zijn de twee kleinste natuurlijke getallen. 
 
 Dat alles maakt dat we de functie `aantal_manieren(n)` op een subtiele manier kunnen implementeren:
 
