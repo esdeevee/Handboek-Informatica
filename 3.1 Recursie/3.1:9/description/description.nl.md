@@ -7,7 +7,7 @@ Het doel van het spel is om de complete toren van schijven te verplaatsen naar e
 * Er mag slechts 1 schijf tegelijk worden verplaatst.
 * Er mag nooit een grotere schijf op een kleinere liggen.
 
-![Hanoi](media/hanoi.png){:width="20%"}
+![Hanoi](media/hanoi.png){:width="50%"}
 
 Misschien helpt het om het spel een paar keer [online](https://nl.goobix.com/online-spelletjes/torens-van-hanoi/#) te spelen met verschillende waarden van `n`.
 
