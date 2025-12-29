@@ -1,0 +1,200 @@
+- tab: "tribonacci_recursief"
+  testcases:
+    - expression: "tribonacci_recursief(83, 59, 6, 5)"
+      return: 213
+    - expression: "tribonacci_recursief(69, 50, 71, 2)"
+      return: 50
+    - expression: "tribonacci_recursief(35, 74, 82, 10)"
+      return: 7186
+    - expression: "tribonacci_recursief(73, 18, 75, 7)"
+      return: 925
+    - expression: "tribonacci_recursief(79, 24, 85, 9)"
+      return: 3547
+    - expression: "tribonacci_recursief(94, 43, 55, 9)"
+      return: 3402
+    - expression: "tribonacci_recursief(14, 1, 73, 21)"
+      return: 2923274
+    - expression: "tribonacci_recursief(30, 23, 24, 4)"
+      return: 77
+    - expression: "tribonacci_recursief(73, 17, 20, 10)"
+      return: 3261
+    - expression: "tribonacci_recursief(5, 81, 91, 16)"
+      return: 275701
+    - expression: "tribonacci_recursief(7, 11, 17, 10)"
+      return: 1323
+    - expression: "tribonacci_recursief(49, 99, 36, 3)"
+      return: 36
+    - expression: "tribonacci_recursief(77, 11, 62, 9)"
+      return: 2709
+    - expression: "tribonacci_recursief(65, 87, 60, 23)"
+      return: 20441154
+    - expression: "tribonacci_recursief(74, 8, 30, 25)"
+      return: 31605634
+    - expression: "tribonacci_recursief(11, 36, 6, 15)"
+      return: 39114
+    - expression: "tribonacci_recursief(1, 32, 66, 9)"
+      return: 2237
+    - expression: "tribonacci_recursief(30, 28, 73, 11)"
+      return: 9137
+    - expression: "tribonacci_recursief(15, 73, 94, 23)"
+      return: 19842036
+    - expression: "tribonacci_recursief(22, 3, 53, 4)"
+      return: 78
+    - expression: "tribonacci_recursief(49, 55, 66, 13)"
+      return: 38035
+    - expression: "tribonacci_recursief(10, 72, 71, 14)"
+      return: 68980
+    - expression: "tribonacci_recursief(18, 86, 3, 24)"
+      return: 18974143
+    - expression: "tribonacci_recursief(70, 55, 23, 4)"
+      return: 148
+    - expression: "tribonacci_recursief(82, 53, 71, 22)"
+      return: 10566191
+    - expression: "tribonacci_recursief(44, 1, 9, 11)"
+      return: 2733
+    - expression: "tribonacci_recursief(6, 67, 23, 12)"
+      return: 12288
+    - expression: "tribonacci_recursief(31, 84, 97, 17)"
+      return: 578135
+    - expression: "tribonacci_recursief(42, 45, 27, 21)"
+      return: 3144066
+    - expression: "tribonacci_recursief(43, 23, 39, 25)"
+      return: 33550483
+    - expression: "tribonacci_recursief(21, 88, 14, 5)"
+      return: 225
+    - expression: "tribonacci_recursief(83, 84, 64, 11)"
+      return: 14548
+    - expression: "tribonacci_recursief(32, 7, 22, 18)"
+      return: 261135
+    - expression: "tribonacci_recursief(82, 35, 43, 19)"
+      return: 1240803
+    - expression: "tribonacci_recursief(15, 90, 88, 13)"
+      return: 47047
+    - expression: "tribonacci_recursief(59, 10, 33, 22)"
+      return: 4849936
+    - expression: "tribonacci_recursief(94, 18, 29, 4)"
+      return: 141
+    - expression: "tribonacci_recursief(13, 97, 64, 17)"
+      return: 478173
+    - expression: "tribonacci_recursief(71, 50, 93, 10)"
+      return: 7646
+    - expression: "tribonacci_recursief(46, 81, 77, 10)"
+      return: 7489
+    - expression: "tribonacci_recursief(10, 18, 33, 14)"
+      return: 26986
+    - expression: "tribonacci_recursief(65, 67, 85, 7)"
+      return: 1257
+    - expression: "tribonacci_recursief(27, 65, 14, 4)"
+      return: 106
+    - expression: "tribonacci_recursief(36, 59, 38, 19)"
+      return: 1136126
+    - expression: "tribonacci_recursief(17, 63, 7, 8)"
+      return: 903
+    - expression: "tribonacci_recursief(94, 72, 42, 24)"
+      return: 34287068
+    - expression: "tribonacci_recursief(45, 73, 11, 8)"
+      return: 1261
+    - expression: "tribonacci_recursief(15, 64, 25, 15)"
+      return: 80527
+    - expression: "tribonacci_recursief(16, 73, 77, 5)"
+      return: 316
+    - expression: "tribonacci_recursief(35, 60, 45, 10)"
+      return: 5040
+    - expression: "tribonacci_recursief(55, 77, 85, 6)"
+      return: 681
+    - expression: "tribonacci_recursief(60, 40, 62, 7)"
+      return: 914
+    - expression: "tribonacci_recursief(71, 78, 3, 6)"
+      return: 388
+    - expression: "tribonacci_recursief(55, 32, 77, 21)"
+      return: 4800649
+    - expression: "tribonacci_recursief(6, 93, 70, 1)"
+      return: 6
+    - expression: "tribonacci_recursief(65, 60, 22, 6)"
+      return: 398
+    - expression: "tribonacci_recursief(76, 86, 22, 7)"
+      return: 974
+    - expression: "tribonacci_recursief(55, 100, 50, 3)"
+      return: 50
+    - expression: "tribonacci_recursief(37, 22, 93, 4)"
+      return: 152
+    - expression: "tribonacci_recursief(14, 93, 6, 20)"
+      return: 1788665
+    - expression: "tribonacci_recursief(41, 63, 70, 12)"
+      return: 21626
+    - expression: "tribonacci_recursief(3, 4, 98, 4)"
+      return: 105
+    - expression: "tribonacci_recursief(8, 72, 52, 17)"
+      return: 366216
+    - expression: "tribonacci_recursief(99, 21, 3, 23)"
+      return: 9039375
+    - expression: "tribonacci_recursief(54, 52, 37, 16)"
+      return: 187555
+    - expression: "tribonacci_recursief(97, 50, 47, 3)"
+      return: 47
+    - expression: "tribonacci_recursief(16, 62, 47, 8)"
+      return: 1405
+    - expression: "tribonacci_recursief(16, 15, 53, 8)"
+      return: 966
+    - expression: "tribonacci_recursief(17, 54, 54, 9)"
+      return: 2597
+    - expression: "tribonacci_recursief(58, 18, 9, 21)"
+      return: 1996960
+    - expression: "tribonacci_recursief(8, 51, 56, 6)"
+      return: 393
+    - expression: "tribonacci_recursief(51, 85, 23, 19)"
+      return: 1295015
+    - expression: "tribonacci_recursief(92, 5, 30, 18)"
+      return: 485757
+    - expression: "tribonacci_recursief(39, 17, 24, 14)"
+      return: 29973
+    - expression: "tribonacci_recursief(82, 50, 85, 4)"
+      return: 217
+    - expression: "tribonacci_recursief(35, 47, 82, 2)"
+      return: 47
+    - expression: "tribonacci_recursief(40, 15, 24, 7)"
+      return: 418
+    - expression: "tribonacci_recursief(8, 70, 17, 7)"
+      return: 571
+    - expression: "tribonacci_recursief(43, 1, 16, 14)"
+      return: 20269
+    - expression: "tribonacci_recursief(48, 52, 3, 5)"
+      return: 158
+    - expression: "tribonacci_recursief(60, 84, 20, 13)"
+      return: 33740
+    - expression: "tribonacci_recursief(1, 86, 23, 16)"
+      return: 163208
+    - expression: "tribonacci_recursief(47, 59, 86, 10)"
+      return: 7095
+    - expression: "tribonacci_recursief(68, 11, 36, 13)"
+      return: 22526
+    - expression: "tribonacci_recursief(70, 16, 42, 4)"
+      return: 128
+    - expression: "tribonacci_recursief(56, 22, 67, 21)"
+      return: 4160042
+    - expression: "tribonacci_recursief(45, 54, 38, 7)"
+      return: 770
+    - expression: "tribonacci_recursief(29, 23, 66, 15)"
+      return: 93692
+    - expression: "tribonacci_recursief(77, 96, 22, 15)"
+      return: 133890
+    - expression: "tribonacci_recursief(58, 56, 6, 1)"
+      return: 58
+    - expression: "tribonacci_recursief(83, 1, 11, 18)"
+      return: 328577
+    - expression: "tribonacci_recursief(12, 40, 92, 22)"
+      return: 8719904
+    - expression: "tribonacci_recursief(38, 46, 4, 18)"
+      return: 364926
+    - expression: "tribonacci_recursief(81, 85, 44, 21)"
+      return: 5720083
+    - expression: "tribonacci_recursief(60, 67, 3, 23)"
+      return: 11152399
+    - expression: "tribonacci_recursief(68, 14, 70, 14)"
+      return: 59834
+    - expression: "tribonacci_recursief(71, 31, 71, 9)"
+      return: 3247
+    - expression: "tribonacci_recursief(18, 29, 1, 5)"
+      return: 78
+    - expression: "tribonacci_recursief(12, 52, 33, 21)"
+      return: 2984870

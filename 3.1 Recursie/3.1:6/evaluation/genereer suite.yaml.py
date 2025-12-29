@@ -1,18 +1,20 @@
 from random import randint
 from math import factorial
 
-def faculteit_iteratief(n):
-    product = 1
-    for i in range(1, n+1):
-        product = product * i
-    return product
+def fibonacci_iteratief(n):
+    a = 1
+    b = 1
+    for i in range(1, n):
+        c = a+b
+        a = b
+        b = c
+    return a
 
-
-def faculteit_recursief(n):
-    if n == 1:
+def fibonacci_recursief(n):
+    if n <= 2:
         return 1
     else:
-        return n * faculteit_recursief(n-1)
+        return fibonacci_recursief(n-1) + fibonacci_recursief(n-2)
         
 # suite.yaml voor de TESTed judge
 # wis alle gegevens in suite.yaml
@@ -21,15 +23,15 @@ file.truncate()
 file.close()
 
 with open('suite.yaml', 'a') as file:
-    file.write('- tab: "faculteit_iteratief"\n')
+    file.write('- tab: "fibonacci_iteratief"\n')
     file.write('  testcases:\n')
     for i in range(1, 100):
-        file.write('    - expression: "faculteit_iteratief(' + str(i) + ')"\n')
-        file.write('      return: ' + str(factorial(i)) + '\n')
+        file.write('    - expression: "fibonacci_iteratief(' + str(i) + ')"\n')
+        file.write('      return: ' + str(fibonacci_iteratief(i)) + '\n')
         
     file.write('\n')
-    file.write('- tab: "faculteit_recursief"\n')
+    file.write('- tab: "fibonacci_recursief"\n')
     file.write('  testcases:\n')
-    for i in range(1, 50):
-        file.write('    - expression: "faculteit_recursief(' + str(i) + ')"\n')
-        file.write('      return: ' + str(factorial(i)) + '\n')
+    for i in range(1, 40):
+        file.write('    - expression: "fibonacci_recursief(' + str(i) + ')"\n')
+        file.write('      return: ' + str(fibonacci_recursief(i)) + '\n')
