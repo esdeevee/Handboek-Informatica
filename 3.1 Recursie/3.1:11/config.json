@@ -1,0 +1,18 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 3.1 - Opgave 11 - Het algoritme van Euclides"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "labels": ["recursie"],
+  "contact": "sdevusser@sint-jan-brussel.be",
+  "access": "public",
+  "internals": {
+    "token": "YwIfjF2BjjgIPbSUwGQrubNcqqiKt-BNfnyxXT_9vFcbyXtQBbivkqG946yBhemm",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
