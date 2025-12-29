@@ -5,10 +5,14 @@
     }
   },
   "evaluation": {
-    "pythia_judge": "doctest",
-    "memory_limit": 500000000
+    "handler": "python",
+    "image": "dodona-python",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": true
   },
-  "labels": [],
+  "labels": ["recursie"],
+  "contact": "sdevusser@sint-jan-brussel.be"
   "access": "public",
   "internals": {
     "token": "9IuGtHuwupE_NGN6UUrCgVJxjUwEG5vjZiK3zgA3qYYr-Cs6dXRQ56_NU_drqkJ3",
