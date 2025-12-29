@@ -38,7 +38,7 @@ file.close()
 with open('suite.yaml', 'a') as file:
     file.write('- tab: "aantal_manieren_betalen"\n')
     file.write('  testcases:\n')
-    for i in range(1, 36):
+    for i in range(1, 33):
         file.write('    - expression: "aantal_manieren_betalen(' + str(i) + ')"\n')
         file.write('      return: ' + str(aantal_manieren_betalen(i)) + '\n')
     

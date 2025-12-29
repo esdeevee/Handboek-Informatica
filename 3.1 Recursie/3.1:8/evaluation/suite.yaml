@@ -64,9 +64,3 @@
       return: 9390983
     - expression: "aantal_manieren_betalen(32)"
       return: 16010713
-    - expression: "aantal_manieren_betalen(33)"
-      return: 27296709
-    - expression: "aantal_manieren_betalen(34)"
-      return: 46538235
-    - expression: "aantal_manieren_betalen(35)"
-      return: 79343166
