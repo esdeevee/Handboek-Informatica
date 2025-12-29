@@ -1,0 +1,200 @@
+>>> som_recursief(85, 23)
+'108'
+>>> som_recursief(72, 88)
+'160'
+>>> som_recursief(47, 39)
+'86'
+>>> som_recursief(77, 24)
+'101'
+>>> som_recursief(52, 77)
+'129'
+>>> som_recursief(36, 23)
+'59'
+>>> som_recursief(24, 49)
+'73'
+>>> som_recursief(38, 61)
+'99'
+>>> som_recursief(83, 80)
+'163'
+>>> som_recursief(62, 91)
+'153'
+>>> som_recursief(74, 38)
+'112'
+>>> som_recursief(98, 35)
+'133'
+>>> som_recursief(73, 24)
+'97'
+>>> som_recursief(94, 22)
+'116'
+>>> som_recursief(17, 49)
+'66'
+>>> som_recursief(88, 48)
+'136'
+>>> som_recursief(97, 76)
+'173'
+>>> som_recursief(22, 99)
+'121'
+>>> som_recursief(78, 50)
+'128'
+>>> som_recursief(58, 84)
+'142'
+>>> som_recursief(655, 517)
+'1172'
+>>> som_recursief(436, 325)
+'761'
+>>> som_recursief(868, 719)
+'1587'
+>>> som_recursief(360, 808)
+'1168'
+>>> som_recursief(440, 148)
+'588'
+>>> som_recursief(472, 198)
+'670'
+>>> som_recursief(745, 879)
+'1624'
+>>> som_recursief(903, 369)
+'1272'
+>>> som_recursief(994, 169)
+'1163'
+>>> som_recursief(354, 996)
+'1350'
+>>> som_recursief(722, 404)
+'1126'
+>>> som_recursief(483, 985)
+'1468'
+>>> som_recursief(331, 160)
+'491'
+>>> som_recursief(926, 350)
+'1276'
+>>> som_recursief(587, 421)
+'1008'
+>>> som_recursief(492, 151)
+'643'
+>>> som_recursief(364, 543)
+'907'
+>>> som_recursief(473, 218)
+'691'
+>>> som_recursief(958, 560)
+'1518'
+>>> som_recursief(325, 407)
+'732'
+>>> som_recursief(2133, 3684)
+'5817'
+>>> som_recursief(4102, 9413)
+'13515'
+>>> som_recursief(8369, 7237)
+'15606'
+>>> som_recursief(2589, 1024)
+'3613'
+>>> som_recursief(7916, 7842)
+'15758'
+>>> som_recursief(3596, 6386)
+'9982'
+>>> som_recursief(4311, 9529)
+'13840'
+>>> som_recursief(8762, 4654)
+'13416'
+>>> som_recursief(2348, 2986)
+'5334'
+>>> som_recursief(2212, 8068)
+'10280'
+>>> som_recursief(7340, 3036)
+'10376'
+>>> som_recursief(4267, 9341)
+'13608'
+>>> som_recursief(2454, 3312)
+'5766'
+>>> som_recursief(9781, 3486)
+'13267'
+>>> som_recursief(2394, 1007)
+'3401'
+>>> som_recursief(2526, 5795)
+'8321'
+>>> som_recursief(3973, 9457)
+'13430'
+>>> som_recursief(7254, 6705)
+'13959'
+>>> som_recursief(9467, 1835)
+'11302'
+>>> som_recursief(1143, 6431)
+'7574'
+>>> som_recursief(63307, 42849)
+'106156'
+>>> som_recursief(49463, 88235)
+'137698'
+>>> som_recursief(66314, 99680)
+'165994'
+>>> som_recursief(25019, 53015)
+'78034'
+>>> som_recursief(43962, 20460)
+'64422'
+>>> som_recursief(11577, 51573)
+'63150'
+>>> som_recursief(39544, 28586)
+'68130'
+>>> som_recursief(42569, 29739)
+'72308'
+>>> som_recursief(63682, 65207)
+'128889'
+>>> som_recursief(10188, 17507)
+'27695'
+>>> som_recursief(57261, 71907)
+'129168'
+>>> som_recursief(25269, 97248)
+'122517'
+>>> som_recursief(33648, 91802)
+'125450'
+>>> som_recursief(31175, 68258)
+'99433'
+>>> som_recursief(47339, 12429)
+'59768'
+>>> som_recursief(51569, 91374)
+'142943'
+>>> som_recursief(99842, 42577)
+'142419'
+>>> som_recursief(46745, 41162)
+'87907'
+>>> som_recursief(25763, 11000)
+'36763'
+>>> som_recursief(53943, 94040)
+'147983'
+>>> som_recursief(256148, 182692)
+'438840'
+>>> som_recursief(138515, 188271)
+'326786'
+>>> som_recursief(347554, 817321)
+'1164875'
+>>> som_recursief(779672, 538146)
+'1317818'
+>>> som_recursief(745847, 635329)
+'1381176'
+>>> som_recursief(307749, 914436)
+'1222185'
+>>> som_recursief(216141, 479743)
+'695884'
+>>> som_recursief(416672, 333111)
+'749783'
+>>> som_recursief(159249, 483545)
+'642794'
+>>> som_recursief(777241, 310280)
+'1087521'
+>>> som_recursief(957052, 345779)
+'1302831'
+>>> som_recursief(500762, 617116)
+'1117878'
+>>> som_recursief(682154, 519976)
+'1202130'
+>>> som_recursief(827684, 343158)
+'1170842'
+>>> som_recursief(398057, 382299)
+'780356'
+>>> som_recursief(447520, 723007)
+'1170527'
+>>> som_recursief(924194, 775808)
+'1700002'
+>>> som_recursief(971990, 420405)
+'1392395'
+>>> som_recursief(492029, 859651)
+'1351680'
+>>> som_recursief(357504, 326186)
+'683690'

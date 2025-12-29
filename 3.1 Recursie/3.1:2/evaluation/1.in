@@ -1,0 +1,200 @@
+>>> som_iteratief(74, 26)
+'100'
+>>> som_iteratief(13, 10)
+'23'
+>>> som_iteratief(83, 100)
+'183'
+>>> som_iteratief(59, 91)
+'150'
+>>> som_iteratief(81, 93)
+'174'
+>>> som_iteratief(70, 66)
+'136'
+>>> som_iteratief(89, 97)
+'186'
+>>> som_iteratief(37, 55)
+'92'
+>>> som_iteratief(35, 23)
+'58'
+>>> som_iteratief(49, 24)
+'73'
+>>> som_iteratief(24, 96)
+'120'
+>>> som_iteratief(83, 33)
+'116'
+>>> som_iteratief(81, 44)
+'125'
+>>> som_iteratief(48, 27)
+'75'
+>>> som_iteratief(27, 51)
+'78'
+>>> som_iteratief(24, 27)
+'51'
+>>> som_iteratief(87, 14)
+'101'
+>>> som_iteratief(70, 91)
+'161'
+>>> som_iteratief(87, 15)
+'102'
+>>> som_iteratief(14, 83)
+'97'
+>>> som_iteratief(420, 609)
+'1029'
+>>> som_iteratief(588, 819)
+'1407'
+>>> som_iteratief(127, 730)
+'857'
+>>> som_iteratief(596, 409)
+'1005'
+>>> som_iteratief(743, 486)
+'1229'
+>>> som_iteratief(802, 964)
+'1766'
+>>> som_iteratief(985, 704)
+'1689'
+>>> som_iteratief(904, 663)
+'1567'
+>>> som_iteratief(100, 809)
+'909'
+>>> som_iteratief(408, 694)
+'1102'
+>>> som_iteratief(728, 786)
+'1514'
+>>> som_iteratief(100, 477)
+'577'
+>>> som_iteratief(108, 898)
+'1006'
+>>> som_iteratief(756, 952)
+'1708'
+>>> som_iteratief(912, 576)
+'1488'
+>>> som_iteratief(834, 129)
+'963'
+>>> som_iteratief(633, 833)
+'1466'
+>>> som_iteratief(209, 594)
+'803'
+>>> som_iteratief(752, 546)
+'1298'
+>>> som_iteratief(128, 952)
+'1080'
+>>> som_iteratief(4558, 7558)
+'12116'
+>>> som_iteratief(8996, 1603)
+'10599'
+>>> som_iteratief(7299, 7039)
+'14338'
+>>> som_iteratief(3441, 3516)
+'6957'
+>>> som_iteratief(3864, 5911)
+'9775'
+>>> som_iteratief(7126, 8304)
+'15430'
+>>> som_iteratief(7924, 9394)
+'17318'
+>>> som_iteratief(6228, 6549)
+'12777'
+>>> som_iteratief(4142, 2926)
+'7068'
+>>> som_iteratief(1800, 7375)
+'9175'
+>>> som_iteratief(5184, 4780)
+'9964'
+>>> som_iteratief(6215, 1083)
+'7298'
+>>> som_iteratief(3913, 7155)
+'11068'
+>>> som_iteratief(2338, 9753)
+'12091'
+>>> som_iteratief(3152, 8288)
+'11440'
+>>> som_iteratief(8353, 5055)
+'13408'
+>>> som_iteratief(6535, 7667)
+'14202'
+>>> som_iteratief(3330, 4021)
+'7351'
+>>> som_iteratief(2212, 7544)
+'9756'
+>>> som_iteratief(1022, 3965)
+'4987'
+>>> som_iteratief(13842, 48892)
+'62734'
+>>> som_iteratief(98132, 67189)
+'165321'
+>>> som_iteratief(17487, 29513)
+'47000'
+>>> som_iteratief(81576, 53596)
+'135172'
+>>> som_iteratief(80987, 59428)
+'140415'
+>>> som_iteratief(10620, 92305)
+'102925'
+>>> som_iteratief(33808, 34989)
+'68797'
+>>> som_iteratief(71654, 45092)
+'116746'
+>>> som_iteratief(62846, 58809)
+'121655'
+>>> som_iteratief(94619, 88499)
+'183118'
+>>> som_iteratief(38975, 56713)
+'95688'
+>>> som_iteratief(36425, 89062)
+'125487'
+>>> som_iteratief(62147, 15611)
+'77758'
+>>> som_iteratief(84030, 42080)
+'126110'
+>>> som_iteratief(55354, 91117)
+'146471'
+>>> som_iteratief(61448, 18768)
+'80216'
+>>> som_iteratief(72312, 12646)
+'84958'
+>>> som_iteratief(99189, 52237)
+'151426'
+>>> som_iteratief(85505, 85479)
+'170984'
+>>> som_iteratief(72223, 69296)
+'141519'
+>>> som_iteratief(357550, 709244)
+'1066794'
+>>> som_iteratief(378283, 774255)
+'1152538'
+>>> som_iteratief(483623, 113010)
+'596633'
+>>> som_iteratief(951127, 473376)
+'1424503'
+>>> som_iteratief(884742, 456423)
+'1341165'
+>>> som_iteratief(411935, 368050)
+'779985'
+>>> som_iteratief(411773, 525673)
+'937446'
+>>> som_iteratief(417311, 332849)
+'750160'
+>>> som_iteratief(450299, 283299)
+'733598'
+>>> som_iteratief(121938, 591470)
+'713408'
+>>> som_iteratief(125507, 241046)
+'366553'
+>>> som_iteratief(461779, 422421)
+'884200'
+>>> som_iteratief(175520, 645833)
+'821353'
+>>> som_iteratief(482037, 921494)
+'1403531'
+>>> som_iteratief(834653, 213943)
+'1048596'
+>>> som_iteratief(263351, 284838)
+'548189'
+>>> som_iteratief(985837, 814249)
+'1800086'
+>>> som_iteratief(252493, 792207)
+'1044700'
+>>> som_iteratief(940085, 935244)
+'1875329'
+>>> som_iteratief(401653, 863196)
+'1264849'
