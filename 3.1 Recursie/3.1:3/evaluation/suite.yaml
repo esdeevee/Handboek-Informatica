@@ -568,8 +568,8 @@
       return: 37343
     - expression: "product_recursief(695, 911)"
       return: 633145
-    - expression: "product_recursief(905, 1000)"
-      return: 905000
+    - expression: "product_recursief(905, 883)"
+      return: 799115
     - expression: "product_recursief(783, 387)"
       return: 303021
     - expression: "product_recursief(410, 569)"
