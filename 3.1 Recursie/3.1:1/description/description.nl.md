@@ -34,8 +34,6 @@ def aantal_manieren(n):
 	return aantal_manieren(n - 1) + aantal_manieren(n - 2)
 
 print(aantal_manieren(0))
-
-print(aantal_manieren(0))
 ```
 
 Voer het programma uit in de Sandbox. Pas daarna de code aan en noteer de uitvoer voor volgende waarden van `n`:
