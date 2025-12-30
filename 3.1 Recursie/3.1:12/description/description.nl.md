@@ -7,7 +7,10 @@ Een palindroom is een woord dat hetzelfde wordt gelezen van voor naar achter als
 
 Schrijf een functie `is_palindroom(woord)` die op een recursieve manier nagaat of `woord` een palindroom is. 
 
-*Hint: je weet dat `woord[0]` en `woord[1]` respectievelijk verwijzen naar het eerste en tweede karakter van `woord`. Analoog verwijzen `woord[-1]` en `woord[-2]` respectievelijk naar het laatste en het voorlaatste karakter van `woord`. `woord[a:b]` verwijst dan weer naar het deel van `woord` dat begint bij het `a`-de karakter en dat stopt* vlak voor *het `b`-de karakter van `woord`. `palindroom[2:5]` geeft dus `lin` terug.*
+*Hint:* 
+* `woord[0]` en `woord[1]` verwijzen respectievelijk naar het eerste en tweede karakter van `woord`.
+* Analoog verwijzen `woord[-1]` en `woord[-2]` respectievelijk naar het laatste en het voorlaatste karakter van `woord`.
+* `woord[a:b]` verwijst dan weer naar het deel van `woord` dat begint bij het `a`-de karakter en dat stopt *vlak voor* het `b`-de karakter van `woord`. `palindroom[2:5]` geeft dus `lin` terug.
 
 Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
