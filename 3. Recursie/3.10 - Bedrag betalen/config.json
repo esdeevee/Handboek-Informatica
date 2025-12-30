@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3.1 - Opgave 9 - Palindroom"
+      "nl": "3.10 - Bedrag betalen"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "upGvrH4tHx_tzYMMZRBXVZq_qTW2E_w3f57DrNrd8b2gkSXTBi28j9iA5Gtka_Bj",
+    "token": "6Q7zq3cv8tkiQpeKj6hfXJHSTruktjeYAy6Sk_AATpmCpf-Yw7DyYvcIxuyPgcPh",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

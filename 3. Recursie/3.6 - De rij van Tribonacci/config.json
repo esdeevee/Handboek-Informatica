@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3.1 - Opgave 1 - Trap beklimmen"
+      "nl": "3.6 - De rij van Tribonacci"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "c32v6MbBGIU-tTSkdnAf9sqGcv4IXWHKEfgmvmNIcxeRT2JAhn7yNYBkHMs4mPI_",
+    "token": "Z76S2jGW3ivYcqYPMs6Xb5uZu64mXBBfZvcrIhtA5jb3PFAZCepCADKWDZpXbRTj",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

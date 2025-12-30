@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3.1 - Opgave 7 - De Torens van Hanoi"
+      "nl": "3.3 - Macht van twee natuurlijke getallen"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "yf488_yVn2m-vjAHZSwPECpiBvICHWsnAnyuPkGS_IAmZGkypBU_VnvDTQXiVDFJ",
+    "token": "cG9gv6bRBiiQBTJ_H22PkhMeyg3RJ7f-t9spkXG_ycB7H9kiz3KMFSuCvTGc5KZB",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

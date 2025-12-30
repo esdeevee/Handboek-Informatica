@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3.1 - Opgave 5 - De rij van Fibonacci"
+      "nl": "3.8 - Het algoritme van Euclides"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "Ngn6axIxKzIZ-DthfX6A-MnsZa5c6eB76fh-7ndwuMk9T4v948pF-VECSFpUuk2Z",
+    "token": "fk_ceVybD_WrciVEYEHhe3iI7DarmhJuNDWvHjZegDBd-u_DrQv6m3KdmsBDZ9fw",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

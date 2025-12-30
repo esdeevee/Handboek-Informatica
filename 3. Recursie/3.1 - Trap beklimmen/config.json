@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "Hoofdstuk 3.1 - Opgave 3 - Macht van twee natuurlijke getallen"
+      "nl": "3.1 - Trap beklimmen"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "cG9gv6bRBiiQBTJ_H22PkhMeyg3RJ7f-t9spkXG_ycB7H9kiz3KMFSuCvTGc5KZB",
+    "token": "c32v6MbBGIU-tTSkdnAf9sqGcv4IXWHKEfgmvmNIcxeRT2JAhn7yNYBkHMs4mPI_",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
