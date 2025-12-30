@@ -1,6 +1,6 @@
 ### Opgave
 
-Marie wilt een bepaald bedrag betalen. Ze heeft een ruime voorraad munten van 1 en 2 en biljetten van 5 euro. Schrijf een functie `aantal_manieren_betalen(bedrag)` die op een recursieve manier berekent op hoeveel manieren ze `bedrag` kan betalen. 
+Marie wilt een bepaald bedrag betalen. Ze heeft een ruime voorraad munten van 1 en 2 en biljetten van 5 euro. Schrijf een functie `aantal_manieren_betalen(bedrag)` die op een recursieve manier berekent en teruggeeft op hoeveel manieren ze `bedrag` kan betalen. 
 
 *Om de wiskundige kant van de zaak niet al te moeilijk te maken, moet je aannemen dat de volgorde waarin Marie betaalt met munten en/of biljetten, van belang is. Als Marie bv. 4 euro wilt betalen, kan ze dat op vijf manieren:*
 * 1+1+1+1 = 4

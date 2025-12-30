@@ -14,8 +14,8 @@ De oud-Griekse wiskundige Euclides heeft rond 300 v.C. een algoritme bedacht om 
 
 ### Opgave
 
-* Schrijf een functie `Euclides_iteratief(a, b)` die op een iteratieve manier de grootste gemene deler van $$a$$ en $$b$$ berekent en toont. 
-* Schrijf een functie `Euclides_recursief(a, b)` die op een recursieve manier de grootste gemene deler van $$a$$ en $$b$$ berekent en toont. 
+* Schrijf een functie `euclides_iteratief(a, b)` die op een iteratieve manier de grootste gemene deler van $$a$$ en $$b$$ berekent en teruggeeft. 
+* Schrijf een functie `euclides_recursief(a, b)` die op een recursieve manier de grootste gemene deler van $$a$$ en $$b$$ berekent en teruggeeft. 
 
 Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
