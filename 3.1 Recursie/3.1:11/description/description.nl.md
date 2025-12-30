@@ -9,7 +9,7 @@ De oud-Griekse wiskundige Euclides heeft rond 300 v.C. een algoritme bedacht om 
 * ggd(372, 8) = ggd(8, 4) want 372 = 46 $$\cdot$$ 8 + 4
 * ggd(8, 4) = ggd(4, 0) want 8 = 2 \cdot 4 + 0$$
 * ggd(4, 0) = 4 want elk getal is een deler van nul
-* $$Rightarrow$$ ggd(752, 372) = 4
+* $$\Rightarrow$$ ggd(752, 372) = 4
 
 ### Opgave
 
