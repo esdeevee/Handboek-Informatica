@@ -1,0 +1,19 @@
+{
+  "description": {
+    "names": {
+      "nl": "Hoofdstuk 1.4 - Opgave 8"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "doctest",
+    "memory_limit": 500000000
+  },
+  "labels": [
+
+  ],
+  "access": "public",
+  "internals": {
+    "token": "bP7RUF7AnxCSwJC6BEHh4S8KwnJfBhez3aTFP5fjBH2GDukk8M_yWgaHMFumquQU",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
