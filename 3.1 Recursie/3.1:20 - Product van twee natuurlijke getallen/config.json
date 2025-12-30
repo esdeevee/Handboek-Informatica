@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Product van twee natuurlijke getallen"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml",
+    "memory_limit": 500000000
+  },
+  "labels": [
+    "recursie"
+  ],
+  "contact": "sdevusser@sint-jan-brussel.be",
+  "access": "public",
+  "internals": {
+    "token": "nmFy3EhSk3jCQdVJkgQmprAsypB4DSdPQ9F9XjGSdM6wEQ8cvAsBsAX6EIu_QHit",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
