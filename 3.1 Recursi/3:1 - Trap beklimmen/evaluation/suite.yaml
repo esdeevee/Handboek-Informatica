@@ -1,0 +1,12 @@
+- tab: "aantal_manieren"
+  testcases:
+    - expression: "aantal_manieren(17)"
+      return: 2584
+    - expression: "aantal_manieren(8)"
+      return: 34
+    - expression: "aantal_manieren(8)"
+      return: 34
+    - expression: "aantal_manieren(7)"
+      return: 21
+    - expression: "aantal_manieren(16)"
+      return: 1597

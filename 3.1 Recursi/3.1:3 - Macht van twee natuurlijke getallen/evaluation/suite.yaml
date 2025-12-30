@@ -1,0 +1,604 @@
+- tab: "macht_direct"
+  testcases:
+    - expression: "macht_direct(32, 8)"
+      return: 1099511627776
+    - expression: "macht_direct(60, 9)"
+      return: 10077696000000000
+    - expression: "macht_direct(63, 12)"
+      return: 3909188328478827879681
+    - expression: "macht_direct(12, 11)"
+      return: 743008370688
+    - expression: "macht_direct(64, 17)"
+      return: 5070602400912917605986812821504
+    - expression: "macht_direct(41, 10)"
+      return: 13422659310152401
+    - expression: "macht_direct(54, 12)"
+      return: 614787626176508399616
+    - expression: "macht_direct(28, 2)"
+      return: 784
+    - expression: "macht_direct(73, 13)"
+      return: 1671849507393788885941033
+    - expression: "macht_direct(26, 7)"
+      return: 8031810176
+    - expression: "macht_direct(57, 11)"
+      return: 20635899893042801193
+    - expression: "macht_direct(89, 2)"
+      return: 7921
+    - expression: "macht_direct(12, 4)"
+      return: 20736
+    - expression: "macht_direct(24, 11)"
+      return: 1521681143169024
+    - expression: "macht_direct(27, 3)"
+      return: 19683
+    - expression: "macht_direct(53, 8)"
+      return: 62259690411361
+    - expression: "macht_direct(66, 13)"
+      return: 450890579914330142416896
+    - expression: "macht_direct(60, 15)"
+      return: 470184984576000000000000000
+    - expression: "macht_direct(29, 8)"
+      return: 500246412961
+    - expression: "macht_direct(87, 4)"
+      return: 57289761
+    - expression: "macht_direct(73, 16)"
+      return: 650377879817809571042122834561
+    - expression: "macht_direct(90, 6)"
+      return: 531441000000
+    - expression: "macht_direct(77, 6)"
+      return: 208422380089
+    - expression: "macht_direct(6, 10)"
+      return: 60466176
+    - expression: "macht_direct(7, 3)"
+      return: 343
+    - expression: "macht_direct(71, 17)"
+      return: 29606831241262271996845213307591
+    - expression: "macht_direct(34, 7)"
+      return: 52523350144
+    - expression: "macht_direct(41, 9)"
+      return: 327381934393961
+    - expression: "macht_direct(77, 19)"
+      return: 697146061654233149087632257881662613
+    - expression: "macht_direct(63, 14)"
+      return: 15515568475732467854453889
+    - expression: "macht_direct(34, 8)"
+      return: 1785793904896
+    - expression: "macht_direct(25, 4)"
+      return: 390625
+    - expression: "macht_direct(70, 17)"
+      return: 23263051398720700000000000000000
+    - expression: "macht_direct(35, 2)"
+      return: 1225
+    - expression: "macht_direct(48, 11)"
+      return: 3116402981210161152
+    - expression: "macht_direct(43, 16)"
+      return: 136614025729312093462315201
+    - expression: "macht_direct(80, 9)"
+      return: 134217728000000000
+    - expression: "macht_direct(14, 8)"
+      return: 1475789056
+    - expression: "macht_direct(100, 9)"
+      return: 1000000000000000000
+    - expression: "macht_direct(21, 15)"
+      return: 68122318582951682301
+    - expression: "macht_direct(27, 14)"
+      return: 109418989131512359209
+    - expression: "macht_direct(42, 2)"
+      return: 1764
+    - expression: "macht_direct(2, 19)"
+      return: 524288
+    - expression: "macht_direct(34, 12)"
+      return: 2386420683693101056
+    - expression: "macht_direct(31, 8)"
+      return: 852891037441
+    - expression: "macht_direct(15, 2)"
+      return: 225
+    - expression: "macht_direct(45, 16)"
+      return: 282748441902441558837890625
+    - expression: "macht_direct(58, 3)"
+      return: 195112
+    - expression: "macht_direct(61, 14)"
+      return: 9876832533361318095112441
+    - expression: "macht_direct(41, 13)"
+      return: 925103102315013629321
+    - expression: "macht_direct(81, 3)"
+      return: 531441
+    - expression: "macht_direct(19, 17)"
+      return: 5480386857784802185939
+    - expression: "macht_direct(28, 8)"
+      return: 377801998336
+    - expression: "macht_direct(12, 2)"
+      return: 144
+    - expression: "macht_direct(83, 19)"
+      return: 2900572700277932893438341970704399947
+    - expression: "macht_direct(30, 9)"
+      return: 19683000000000
+    - expression: "macht_direct(30, 5)"
+      return: 24300000
+    - expression: "macht_direct(9, 11)"
+      return: 31381059609
+    - expression: "macht_direct(98, 11)"
+      return: 8007313507497959524352
+    - expression: "macht_direct(79, 19)"
+      return: 1134787999706880954999833295916475119
+    - expression: "macht_direct(71, 2)"
+      return: 5041
+    - expression: "macht_direct(13, 10)"
+      return: 137858491849
+    - expression: "macht_direct(59, 17)"
+      return: 1271991467017507741703714391419
+    - expression: "macht_direct(42, 9)"
+      return: 406671383849472
+    - expression: "macht_direct(15, 16)"
+      return: 6568408355712890625
+    - expression: "macht_direct(99, 2)"
+      return: 9801
+    - expression: "macht_direct(90, 13)"
+      return: 25418658283290000000000000
+    - expression: "macht_direct(56, 13)"
+      return: 53265296773103187132416
+    - expression: "macht_direct(59, 17)"
+      return: 1271991467017507741703714391419
+    - expression: "macht_direct(17, 14)"
+      return: 168377826559400929
+    - expression: "macht_direct(44, 7)"
+      return: 319277809664
+    - expression: "macht_direct(82, 8)"
+      return: 2044140858654976
+    - expression: "macht_direct(44, 8)"
+      return: 14048223625216
+    - expression: "macht_direct(72, 19)"
+      return: 194678249355036212415530357760196608
+    - expression: "macht_direct(73, 13)"
+      return: 1671849507393788885941033
+    - expression: "macht_direct(83, 5)"
+      return: 3939040643
+    - expression: "macht_direct(78, 7)"
+      return: 17565568854912
+    - expression: "macht_direct(43, 16)"
+      return: 136614025729312093462315201
+    - expression: "macht_direct(5, 19)"
+      return: 19073486328125
+    - expression: "macht_direct(6, 12)"
+      return: 2176782336
+    - expression: "macht_direct(100, 10)"
+      return: 100000000000000000000
+    - expression: "macht_direct(51, 16)"
+      return: 2094704750199298376445300801
+    - expression: "macht_direct(52, 11)"
+      return: 7516865509350965248
+    - expression: "macht_direct(67, 14)"
+      return: 36732225162896895721934329
+    - expression: "macht_direct(14, 7)"
+      return: 105413504
+    - expression: "macht_direct(36, 16)"
+      return: 7958661109946400884391936
+    - expression: "macht_direct(72, 17)"
+      return: 37553674644104207641884714074112
+    - expression: "macht_direct(38, 5)"
+      return: 79235168
+    - expression: "macht_direct(28, 15)"
+      return: 5097655355238390956032
+    - expression: "macht_direct(46, 11)"
+      return: 1951354384207722496
+    - expression: "macht_direct(29, 9)"
+      return: 14507145975869
+    - expression: "macht_direct(52, 9)"
+      return: 2779905883635712
+    - expression: "macht_direct(97, 15)"
+      return: 633251189136789386043275954593
+    - expression: "macht_direct(25, 8)"
+      return: 152587890625
+    - expression: "macht_direct(17, 20)"
+      return: 4064231406647572522401601
+    - expression: "macht_direct(25, 15)"
+      return: 931322574615478515625
+    - expression: "macht_direct(27, 3)"
+      return: 19683
+    - expression: "macht_direct(95, 2)"
+      return: 9025
+    - expression: "macht_direct(36, 13)"
+      return: 170581728179578208256
+
+- tab: "macht_iteratief"
+  testcases:
+    - expression: "macht_iteratief(3, 17)"
+      return: 129140163
+    - expression: "macht_iteratief(57, 10)"
+      return: 362033331456891249
+    - expression: "macht_iteratief(9, 17)"
+      return: 16677181699666569
+    - expression: "macht_iteratief(7, 3)"
+      return: 343
+    - expression: "macht_iteratief(22, 2)"
+      return: 484
+    - expression: "macht_iteratief(91, 8)"
+      return: 4702525276151521
+    - expression: "macht_iteratief(55, 13)"
+      return: 42141982597572021484375
+    - expression: "macht_iteratief(34, 14)"
+      return: 2758702310349224820736
+    - expression: "macht_iteratief(4, 2)"
+      return: 16
+    - expression: "macht_iteratief(100, 2)"
+      return: 10000
+    - expression: "macht_iteratief(66, 4)"
+      return: 18974736
+    - expression: "macht_iteratief(88, 7)"
+      return: 40867559636992
+    - expression: "macht_iteratief(68, 20)"
+      return: 4468669689581414651264794540298469376
+    - expression: "macht_iteratief(97, 12)"
+      return: 693842360995438000295041
+    - expression: "macht_iteratief(36, 10)"
+      return: 3656158440062976
+    - expression: "macht_iteratief(23, 2)"
+      return: 529
+    - expression: "macht_iteratief(65, 11)"
+      return: 87507831740087890625
+    - expression: "macht_iteratief(51, 8)"
+      return: 45767944570401
+    - expression: "macht_iteratief(48, 3)"
+      return: 110592
+    - expression: "macht_iteratief(59, 18)"
+      return: 75047496554032956760519149093721
+    - expression: "macht_iteratief(28, 20)"
+      return: 87732524600823436081182539776
+    - expression: "macht_iteratief(68, 16)"
+      return: 208998227690370098316628197376
+    - expression: "macht_iteratief(13, 18)"
+      return: 112455406951957393129
+    - expression: "macht_iteratief(35, 13)"
+      return: 118272717781982421875
+    - expression: "macht_iteratief(68, 15)"
+      return: 3073503348387795563479826432
+    - expression: "macht_iteratief(53, 8)"
+      return: 62259690411361
+    - expression: "macht_iteratief(97, 15)"
+      return: 633251189136789386043275954593
+    - expression: "macht_iteratief(31, 14)"
+      return: 756943935220796320321
+    - expression: "macht_iteratief(47, 2)"
+      return: 2209
+    - expression: "macht_iteratief(19, 7)"
+      return: 893871739
+    - expression: "macht_iteratief(38, 5)"
+      return: 79235168
+    - expression: "macht_iteratief(12, 13)"
+      return: 106993205379072
+    - expression: "macht_iteratief(73, 6)"
+      return: 151334226289
+    - expression: "macht_iteratief(17, 4)"
+      return: 83521
+    - expression: "macht_iteratief(25, 5)"
+      return: 9765625
+    - expression: "macht_iteratief(54, 2)"
+      return: 2916
+    - expression: "macht_iteratief(100, 5)"
+      return: 10000000000
+    - expression: "macht_iteratief(99, 20)"
+      return: 8179069375972308708891986605443361898001
+    - expression: "macht_iteratief(40, 14)"
+      return: 26843545600000000000000
+    - expression: "macht_iteratief(37, 14)"
+      return: 9012061295995008299689
+    - expression: "macht_iteratief(41, 7)"
+      return: 194754273881
+    - expression: "macht_iteratief(69, 12)"
+      return: 11646329922777311412561
+    - expression: "macht_iteratief(99, 14)"
+      return: 8687458127689783079736908601
+    - expression: "macht_iteratief(56, 14)"
+      return: 2982856619293778479415296
+    - expression: "macht_iteratief(84, 5)"
+      return: 4182119424
+    - expression: "macht_iteratief(45, 4)"
+      return: 4100625
+    - expression: "macht_iteratief(31, 7)"
+      return: 27512614111
+    - expression: "macht_iteratief(54, 12)"
+      return: 614787626176508399616
+    - expression: "macht_iteratief(96, 5)"
+      return: 8153726976
+    - expression: "macht_iteratief(69, 9)"
+      return: 35452087835576229
+    - expression: "macht_iteratief(62, 5)"
+      return: 916132832
+    - expression: "macht_iteratief(97, 14)"
+      return: 6528362774606076144776040769
+    - expression: "macht_iteratief(19, 19)"
+      return: 1978419655660313589123979
+    - expression: "macht_iteratief(66, 2)"
+      return: 4356
+    - expression: "macht_iteratief(7, 15)"
+      return: 4747561509943
+    - expression: "macht_iteratief(82, 10)"
+      return: 13744803133596058624
+    - expression: "macht_iteratief(45, 15)"
+      return: 6283298708943145751953125
+    - expression: "macht_iteratief(29, 17)"
+      return: 7257147736730073114838109
+    - expression: "macht_iteratief(53, 8)"
+      return: 62259690411361
+    - expression: "macht_iteratief(77, 14)"
+      return: 257555099046722087448523609
+    - expression: "macht_iteratief(21, 14)"
+      return: 3243919932521508681
+    - expression: "macht_iteratief(73, 9)"
+      return: 58871586708267913
+    - expression: "macht_iteratief(69, 3)"
+      return: 328509
+    - expression: "macht_iteratief(94, 13)"
+      return: 44736509592539817388662784
+    - expression: "macht_iteratief(93, 15)"
+      return: 336700862051614156853075413557
+    - expression: "macht_iteratief(53, 16)"
+      return: 3876269050118516845397872321
+    - expression: "macht_iteratief(75, 15)"
+      return: 13363461010158061981201171875
+    - expression: "macht_iteratief(15, 4)"
+      return: 50625
+    - expression: "macht_iteratief(9, 14)"
+      return: 22876792454961
+    - expression: "macht_iteratief(5, 10)"
+      return: 9765625
+    - expression: "macht_iteratief(26, 9)"
+      return: 5429503678976
+    - expression: "macht_iteratief(97, 2)"
+      return: 9409
+    - expression: "macht_iteratief(85, 20)"
+      return: 387595310845143558731231784820556640625
+    - expression: "macht_iteratief(95, 2)"
+      return: 9025
+    - expression: "macht_iteratief(90, 20)"
+      return: 1215766545905692880100000000000000000000
+    - expression: "macht_iteratief(17, 10)"
+      return: 2015993900449
+    - expression: "macht_iteratief(47, 18)"
+      return: 1252453015827223091648143056289
+    - expression: "macht_iteratief(7, 6)"
+      return: 117649
+    - expression: "macht_iteratief(60, 9)"
+      return: 10077696000000000
+    - expression: "macht_iteratief(16, 4)"
+      return: 65536
+    - expression: "macht_iteratief(25, 10)"
+      return: 95367431640625
+    - expression: "macht_iteratief(58, 9)"
+      return: 7427658739644928
+    - expression: "macht_iteratief(85, 4)"
+      return: 52200625
+    - expression: "macht_iteratief(65, 15)"
+      return: 1562069488955406402587890625
+    - expression: "macht_iteratief(61, 2)"
+      return: 3721
+    - expression: "macht_iteratief(94, 2)"
+      return: 8836
+    - expression: "macht_iteratief(59, 10)"
+      return: 511116753300641401
+    - expression: "macht_iteratief(45, 15)"
+      return: 6283298708943145751953125
+    - expression: "macht_iteratief(19, 13)"
+      return: 42052983462257059
+    - expression: "macht_iteratief(92, 16)"
+      return: 26339361174458854765907679379456
+    - expression: "macht_iteratief(49, 4)"
+      return: 5764801
+    - expression: "macht_iteratief(82, 12)"
+      return: 92420056270299898187776
+    - expression: "macht_iteratief(74, 3)"
+      return: 405224
+    - expression: "macht_iteratief(86, 16)"
+      return: 8953136790196197357146289012736
+    - expression: "macht_iteratief(52, 3)"
+      return: 140608
+    - expression: "macht_iteratief(41, 12)"
+      return: 22563490300366186081
+    - expression: "macht_iteratief(100, 2)"
+      return: 10000
+    - expression: "macht_iteratief(79, 7)"
+      return: 19203908986159
+    - expression: "macht_iteratief(8, 5)"
+      return: 32768
+    - expression: "macht_iteratief(57, 3)"
+      return: 185193
+
+- tab: "macht_recursief"
+  testcases:
+    - expression: "macht_recursief(11, 13)"
+      return: 34522712143931
+    - expression: "macht_recursief(45, 9)"
+      return: 756680642578125
+    - expression: "macht_recursief(25, 20)"
+      return: 9094947017729282379150390625
+    - expression: "macht_recursief(6, 16)"
+      return: 2821109907456
+    - expression: "macht_recursief(67, 9)"
+      return: 27206534396294947
+    - expression: "macht_recursief(77, 17)"
+      return: 117582402033097174749136828787597
+    - expression: "macht_recursief(43, 13)"
+      return: 1718264124282290785243
+    - expression: "macht_recursief(83, 9)"
+      return: 186940255267540403
+    - expression: "macht_recursief(15, 10)"
+      return: 576650390625
+    - expression: "macht_recursief(13, 18)"
+      return: 112455406951957393129
+    - expression: "macht_recursief(51, 6)"
+      return: 17596287801
+    - expression: "macht_recursief(74, 3)"
+      return: 405224
+    - expression: "macht_recursief(52, 5)"
+      return: 380204032
+    - expression: "macht_recursief(32, 8)"
+      return: 1099511627776
+    - expression: "macht_recursief(61, 5)"
+      return: 844596301
+    - expression: "macht_recursief(96, 12)"
+      return: 612709757329767363772416
+    - expression: "macht_recursief(44, 2)"
+      return: 1936
+    - expression: "macht_recursief(38, 14)"
+      return: 13090925539866773438464
+    - expression: "macht_recursief(91, 17)"
+      return: 2012350701528798434504842105823131
+    - expression: "macht_recursief(42, 18)"
+      return: 165381614442044595841154678784
+    - expression: "macht_recursief(99, 8)"
+      return: 9227446944279201
+    - expression: "macht_recursief(5, 13)"
+      return: 1220703125
+    - expression: "macht_recursief(6, 17)"
+      return: 16926659444736
+    - expression: "macht_recursief(19, 20)"
+      return: 37589973457545958193355601
+    - expression: "macht_recursief(52, 16)"
+      return: 2857942574656970690381479936
+    - expression: "macht_recursief(96, 12)"
+      return: 612709757329767363772416
+    - expression: "macht_recursief(11, 12)"
+      return: 3138428376721
+    - expression: "macht_recursief(92, 15)"
+      return: 286297404070204943107692167168
+    - expression: "macht_recursief(32, 17)"
+      return: 38685626227668133590597632
+    - expression: "macht_recursief(17, 17)"
+      return: 827240261886336764177
+    - expression: "macht_recursief(2, 2)"
+      return: 4
+    - expression: "macht_recursief(8, 10)"
+      return: 1073741824
+    - expression: "macht_recursief(43, 5)"
+      return: 147008443
+    - expression: "macht_recursief(95, 12)"
+      return: 540360087662636962890625
+    - expression: "macht_recursief(86, 16)"
+      return: 8953136790196197357146289012736
+    - expression: "macht_recursief(44, 7)"
+      return: 319277809664
+    - expression: "macht_recursief(78, 6)"
+      return: 225199600704
+    - expression: "macht_recursief(100, 19)"
+      return: 100000000000000000000000000000000000000
+    - expression: "macht_recursief(98, 9)"
+      return: 833747762130149888
+    - expression: "macht_recursief(85, 9)"
+      return: 231616946283203125
+    - expression: "macht_recursief(97, 7)"
+      return: 80798284478113
+    - expression: "macht_recursief(27, 17)"
+      return: 2153693963075557766310747
+    - expression: "macht_recursief(70, 12)"
+      return: 13841287201000000000000
+    - expression: "macht_recursief(81, 13)"
+      return: 6461081889226673298932241
+    - expression: "macht_recursief(27, 2)"
+      return: 729
+    - expression: "macht_recursief(4, 19)"
+      return: 274877906944
+    - expression: "macht_recursief(2, 4)"
+      return: 16
+    - expression: "macht_recursief(58, 2)"
+      return: 3364
+    - expression: "macht_recursief(60, 14)"
+      return: 7836416409600000000000000
+    - expression: "macht_recursief(44, 7)"
+      return: 319277809664
+    - expression: "macht_recursief(39, 13)"
+      return: 482880748567480579719
+    - expression: "macht_recursief(80, 20)"
+      return: 115292150460684697600000000000000000000
+    - expression: "macht_recursief(52, 3)"
+      return: 140608
+    - expression: "macht_recursief(10, 9)"
+      return: 1000000000
+    - expression: "macht_recursief(18, 12)"
+      return: 1156831381426176
+    - expression: "macht_recursief(73, 8)"
+      return: 806460091894081
+    - expression: "macht_recursief(36, 16)"
+      return: 7958661109946400884391936
+    - expression: "macht_recursief(79, 20)"
+      return: 89648251976843595444986830377401534401
+    - expression: "macht_recursief(80, 3)"
+      return: 512000
+    - expression: "macht_recursief(64, 17)"
+      return: 5070602400912917605986812821504
+    - expression: "macht_recursief(95, 15)"
+      return: 463291230159753366058349609375
+    - expression: "macht_recursief(93, 4)"
+      return: 74805201
+    - expression: "macht_recursief(16, 18)"
+      return: 4722366482869645213696
+    - expression: "macht_recursief(65, 3)"
+      return: 274625
+    - expression: "macht_recursief(73, 13)"
+      return: 1671849507393788885941033
+    - expression: "macht_recursief(79, 20)"
+      return: 89648251976843595444986830377401534401
+    - expression: "macht_recursief(38, 6)"
+      return: 3010936384
+    - expression: "macht_recursief(88, 5)"
+      return: 5277319168
+    - expression: "macht_recursief(51, 10)"
+      return: 119042423827613001
+    - expression: "macht_recursief(55, 13)"
+      return: 42141982597572021484375
+    - expression: "macht_recursief(14, 15)"
+      return: 155568095557812224
+    - expression: "macht_recursief(53, 11)"
+      return: 9269035929372191597
+    - expression: "macht_recursief(38, 4)"
+      return: 2085136
+    - expression: "macht_recursief(57, 17)"
+      return: 707738052117387173214918768057
+    - expression: "macht_recursief(26, 5)"
+      return: 11881376
+    - expression: "macht_recursief(79, 9)"
+      return: 119851595982618319
+    - expression: "macht_recursief(96, 4)"
+      return: 84934656
+    - expression: "macht_recursief(2, 15)"
+      return: 32768
+    - expression: "macht_recursief(10, 8)"
+      return: 100000000
+    - expression: "macht_recursief(23, 6)"
+      return: 148035889
+    - expression: "macht_recursief(27, 3)"
+      return: 19683
+    - expression: "macht_recursief(60, 11)"
+      return: 36279705600000000000
+    - expression: "macht_recursief(84, 9)"
+      return: 208215748530929664
+    - expression: "macht_recursief(43, 11)"
+      return: 929293739471222707
+    - expression: "macht_recursief(73, 20)"
+      return: 18469587772135192290560825407466407201
+    - expression: "macht_recursief(11, 14)"
+      return: 379749833583241
+    - expression: "macht_recursief(73, 17)"
+      return: 47477585226700098686074966922953
+    - expression: "macht_recursief(10, 19)"
+      return: 10000000000000000000
+    - expression: "macht_recursief(10, 14)"
+      return: 100000000000000
+    - expression: "macht_recursief(37, 6)"
+      return: 2565726409
+    - expression: "macht_recursief(68, 18)"
+      return: 966407804840271334616088784666624
+    - expression: "macht_recursief(47, 3)"
+      return: 103823
+    - expression: "macht_recursief(75, 7)"
+      return: 13348388671875
+    - expression: "macht_recursief(83, 15)"
+      return: 61118316854865828343112727707
+    - expression: "macht_recursief(9, 16)"
+      return: 1853020188851841
+    - expression: "macht_recursief(16, 6)"
+      return: 16777216
+    - expression: "macht_recursief(43, 15)"
+      return: 3177070365797955661914307
+    - expression: "macht_recursief(70, 11)"
+      return: 197732674300000000000
+    - expression: "macht_recursief(15, 20)"
+      return: 332525673007965087890625

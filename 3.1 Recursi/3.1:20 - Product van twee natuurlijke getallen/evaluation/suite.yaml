@@ -1,0 +1,606 @@
+- tab: "product_direct"
+  testcases:
+    - expression: "product_direct(50, 36)"
+      return: 1800
+    - expression: "product_direct(27, 16)"
+      return: 432
+    - expression: "product_direct(21, 46)"
+      return: 966
+    - expression: "product_direct(48, 14)"
+      return: 672
+    - expression: "product_direct(23, 83)"
+      return: 1909
+    - expression: "product_direct(39, 30)"
+      return: 1170
+    - expression: "product_direct(38, 19)"
+      return: 722
+    - expression: "product_direct(73, 19)"
+      return: 1387
+    - expression: "product_direct(79, 20)"
+      return: 1580
+    - expression: "product_direct(28, 29)"
+      return: 812
+    - expression: "product_direct(51, 12)"
+      return: 612
+    - expression: "product_direct(29, 97)"
+      return: 2813
+    - expression: "product_direct(41, 31)"
+      return: 1271
+    - expression: "product_direct(46, 93)"
+      return: 4278
+    - expression: "product_direct(80, 58)"
+      return: 4640
+    - expression: "product_direct(56, 22)"
+      return: 1232
+    - expression: "product_direct(39, 99)"
+      return: 3861
+    - expression: "product_direct(69, 19)"
+      return: 1311
+    - expression: "product_direct(35, 46)"
+      return: 1610
+    - expression: "product_direct(23, 34)"
+      return: 782
+    - expression: "product_direct(401, 207)"
+      return: 83007
+    - expression: "product_direct(344, 943)"
+      return: 324392
+    - expression: "product_direct(717, 439)"
+      return: 314763
+    - expression: "product_direct(566, 527)"
+      return: 298282
+    - expression: "product_direct(199, 697)"
+      return: 138703
+    - expression: "product_direct(816, 374)"
+      return: 305184
+    - expression: "product_direct(263, 845)"
+      return: 222235
+    - expression: "product_direct(952, 585)"
+      return: 556920
+    - expression: "product_direct(631, 329)"
+      return: 207599
+    - expression: "product_direct(683, 533)"
+      return: 364039
+    - expression: "product_direct(212, 180)"
+      return: 38160
+    - expression: "product_direct(293, 390)"
+      return: 114270
+    - expression: "product_direct(876, 600)"
+      return: 525600
+    - expression: "product_direct(454, 406)"
+      return: 184324
+    - expression: "product_direct(983, 437)"
+      return: 429571
+    - expression: "product_direct(559, 459)"
+      return: 256581
+    - expression: "product_direct(367, 405)"
+      return: 148635
+    - expression: "product_direct(588, 614)"
+      return: 361032
+    - expression: "product_direct(244, 574)"
+      return: 140056
+    - expression: "product_direct(159, 376)"
+      return: 59784
+    - expression: "product_direct(8761, 3740)"
+      return: 32766140
+    - expression: "product_direct(6405, 5057)"
+      return: 32390085
+    - expression: "product_direct(2687, 8931)"
+      return: 23997597
+    - expression: "product_direct(7633, 3052)"
+      return: 23295916
+    - expression: "product_direct(2828, 9622)"
+      return: 27211016
+    - expression: "product_direct(4523, 8050)"
+      return: 36410150
+    - expression: "product_direct(7525, 6687)"
+      return: 50319675
+    - expression: "product_direct(3065, 9354)"
+      return: 28670010
+    - expression: "product_direct(8552, 4455)"
+      return: 38099160
+    - expression: "product_direct(4175, 2729)"
+      return: 11393575
+    - expression: "product_direct(2363, 9262)"
+      return: 21886106
+    - expression: "product_direct(3735, 5489)"
+      return: 20501415
+    - expression: "product_direct(3926, 7790)"
+      return: 30583540
+    - expression: "product_direct(5431, 6345)"
+      return: 34459695
+    - expression: "product_direct(1506, 9832)"
+      return: 14806992
+    - expression: "product_direct(1734, 2749)"
+      return: 4766766
+    - expression: "product_direct(9231, 5841)"
+      return: 53918271
+    - expression: "product_direct(4455, 7661)"
+      return: 34129755
+    - expression: "product_direct(7755, 9015)"
+      return: 69911325
+    - expression: "product_direct(3670, 1801)"
+      return: 6609670
+    - expression: "product_direct(78855, 20529)"
+      return: 1618814295
+    - expression: "product_direct(44267, 54078)"
+      return: 2393870826
+    - expression: "product_direct(62152, 91069)"
+      return: 5660120488
+    - expression: "product_direct(32551, 90907)"
+      return: 2959113757
+    - expression: "product_direct(72644, 52793)"
+      return: 3835094692
+    - expression: "product_direct(39751, 46225)"
+      return: 1837489975
+    - expression: "product_direct(80199, 53747)"
+      return: 4310455653
+    - expression: "product_direct(81253, 36292)"
+      return: 2948833876
+    - expression: "product_direct(37717, 94685)"
+      return: 3571234145
+    - expression: "product_direct(34731, 52491)"
+      return: 1823064921
+    - expression: "product_direct(94480, 24840)"
+      return: 2346883200
+    - expression: "product_direct(20402, 64683)"
+      return: 1319662566
+    - expression: "product_direct(33390, 16419)"
+      return: 548230410
+    - expression: "product_direct(28921, 53304)"
+      return: 1541604984
+    - expression: "product_direct(97085, 65464)"
+      return: 6355572440
+    - expression: "product_direct(10211, 43110)"
+      return: 440196210
+    - expression: "product_direct(79463, 19030)"
+      return: 1512180890
+    - expression: "product_direct(30076, 27189)"
+      return: 817736364
+    - expression: "product_direct(74235, 70101)"
+      return: 5203947735
+    - expression: "product_direct(40769, 71529)"
+      return: 2916165801
+    - expression: "product_direct(157647, 473831)"
+      return: 74698035657
+    - expression: "product_direct(719449, 906637)"
+      return: 652279083013
+    - expression: "product_direct(174345, 309488)"
+      return: 53957685360
+    - expression: "product_direct(392012, 462729)"
+      return: 181395320748
+    - expression: "product_direct(609628, 435943)"
+      return: 265763059204
+    - expression: "product_direct(548569, 196273)"
+      return: 107669283337
+    - expression: "product_direct(228512, 557211)"
+      return: 127329400032
+    - expression: "product_direct(938823, 257540)"
+      return: 241784475420
+    - expression: "product_direct(393628, 210093)"
+      return: 82698487404
+    - expression: "product_direct(301342, 908647)"
+      return: 273813504274
+    - expression: "product_direct(495324, 358970)"
+      return: 177806456280
+    - expression: "product_direct(505802, 409244)"
+      return: 206996433688
+    - expression: "product_direct(113560, 189657)"
+      return: 21537448920
+    - expression: "product_direct(543295, 911903)"
+      return: 495432340385
+    - expression: "product_direct(954101, 484887)"
+      return: 462631171587
+    - expression: "product_direct(113035, 150617)"
+      return: 17024992595
+    - expression: "product_direct(627150, 372428)"
+      return: 233568220200
+    - expression: "product_direct(638554, 655039)"
+      return: 418277773606
+    - expression: "product_direct(336574, 575839)"
+      return: 193812435586
+    - expression: "product_direct(758877, 696349)"
+      return: 528443240073
+
+- tab: "product_iteratief"
+  testcases:
+    - expression: "product_iteratief(23, 90)"
+      return: 2070
+    - expression: "product_iteratief(60, 45)"
+      return: 2700
+    - expression: "product_iteratief(11, 93)"
+      return: 1023
+    - expression: "product_iteratief(13, 36)"
+      return: 468
+    - expression: "product_iteratief(47, 12)"
+      return: 564
+    - expression: "product_iteratief(73, 98)"
+      return: 7154
+    - expression: "product_iteratief(44, 37)"
+      return: 1628
+    - expression: "product_iteratief(81, 99)"
+      return: 8019
+    - expression: "product_iteratief(72, 80)"
+      return: 5760
+    - expression: "product_iteratief(56, 26)"
+      return: 1456
+    - expression: "product_iteratief(78, 40)"
+      return: 3120
+    - expression: "product_iteratief(24, 56)"
+      return: 1344
+    - expression: "product_iteratief(83, 95)"
+      return: 7885
+    - expression: "product_iteratief(81, 31)"
+      return: 2511
+    - expression: "product_iteratief(72, 92)"
+      return: 6624
+    - expression: "product_iteratief(64, 69)"
+      return: 4416
+    - expression: "product_iteratief(39, 50)"
+      return: 1950
+    - expression: "product_iteratief(31, 83)"
+      return: 2573
+    - expression: "product_iteratief(47, 56)"
+      return: 2632
+    - expression: "product_iteratief(37, 68)"
+      return: 2516
+    - expression: "product_iteratief(741, 315)"
+      return: 233415
+    - expression: "product_iteratief(502, 466)"
+      return: 233932
+    - expression: "product_iteratief(765, 970)"
+      return: 742050
+    - expression: "product_iteratief(443, 320)"
+      return: 141760
+    - expression: "product_iteratief(132, 261)"
+      return: 34452
+    - expression: "product_iteratief(184, 834)"
+      return: 153456
+    - expression: "product_iteratief(898, 193)"
+      return: 173314
+    - expression: "product_iteratief(825, 847)"
+      return: 698775
+    - expression: "product_iteratief(347, 513)"
+      return: 178011
+    - expression: "product_iteratief(693, 660)"
+      return: 457380
+    - expression: "product_iteratief(868, 607)"
+      return: 526876
+    - expression: "product_iteratief(906, 991)"
+      return: 897846
+    - expression: "product_iteratief(193, 437)"
+      return: 84341
+    - expression: "product_iteratief(762, 170)"
+      return: 129540
+    - expression: "product_iteratief(209, 439)"
+      return: 91751
+    - expression: "product_iteratief(731, 552)"
+      return: 403512
+    - expression: "product_iteratief(651, 591)"
+      return: 384741
+    - expression: "product_iteratief(901, 570)"
+      return: 513570
+    - expression: "product_iteratief(818, 313)"
+      return: 256034
+    - expression: "product_iteratief(382, 109)"
+      return: 41638
+    - expression: "product_iteratief(4593, 2077)"
+      return: 9539661
+    - expression: "product_iteratief(6905, 2071)"
+      return: 14300255
+    - expression: "product_iteratief(6417, 8033)"
+      return: 51547761
+    - expression: "product_iteratief(9129, 3398)"
+      return: 31020342
+    - expression: "product_iteratief(8555, 3262)"
+      return: 27906410
+    - expression: "product_iteratief(9336, 9323)"
+      return: 87039528
+    - expression: "product_iteratief(9998, 3307)"
+      return: 33063386
+    - expression: "product_iteratief(6161, 2247)"
+      return: 13843767
+    - expression: "product_iteratief(6478, 4517)"
+      return: 29261126
+    - expression: "product_iteratief(9536, 7290)"
+      return: 69517440
+    - expression: "product_iteratief(9611, 5716)"
+      return: 54936476
+    - expression: "product_iteratief(5008, 9969)"
+      return: 49924752
+    - expression: "product_iteratief(1717, 8120)"
+      return: 13942040
+    - expression: "product_iteratief(6590, 7335)"
+      return: 48337650
+    - expression: "product_iteratief(5726, 6481)"
+      return: 37110206
+    - expression: "product_iteratief(2882, 3384)"
+      return: 9752688
+    - expression: "product_iteratief(3631, 1973)"
+      return: 7163963
+    - expression: "product_iteratief(5669, 6160)"
+      return: 34921040
+    - expression: "product_iteratief(8954, 2598)"
+      return: 23262492
+    - expression: "product_iteratief(8724, 5154)"
+      return: 44963496
+    - expression: "product_iteratief(47571, 47121)"
+      return: 2241593091
+    - expression: "product_iteratief(90004, 40778)"
+      return: 3670183112
+    - expression: "product_iteratief(18294, 34229)"
+      return: 626185326
+    - expression: "product_iteratief(90465, 99618)"
+      return: 9011942370
+    - expression: "product_iteratief(73026, 36275)"
+      return: 2649018150
+    - expression: "product_iteratief(52554, 23741)"
+      return: 1247684514
+    - expression: "product_iteratief(12229, 46113)"
+      return: 563915877
+    - expression: "product_iteratief(33748, 93671)"
+      return: 3161208908
+    - expression: "product_iteratief(32214, 83224)"
+      return: 2680977936
+    - expression: "product_iteratief(83682, 82789)"
+      return: 6927949098
+    - expression: "product_iteratief(44459, 16579)"
+      return: 737085761
+    - expression: "product_iteratief(59398, 90754)"
+      return: 5390606092
+    - expression: "product_iteratief(90848, 50214)"
+      return: 4561841472
+    - expression: "product_iteratief(97012, 94811)"
+      return: 9197804732
+    - expression: "product_iteratief(97082, 20113)"
+      return: 1952610266
+    - expression: "product_iteratief(84308, 37330)"
+      return: 3147217640
+    - expression: "product_iteratief(74152, 71139)"
+      return: 5275099128
+    - expression: "product_iteratief(43112, 56306)"
+      return: 2427464272
+    - expression: "product_iteratief(82735, 61182)"
+      return: 5061892770
+    - expression: "product_iteratief(57643, 25874)"
+      return: 1491454982
+    - expression: "product_iteratief(864264, 972505)"
+      return: 840501061320
+    - expression: "product_iteratief(367632, 474339)"
+      return: 174382195248
+    - expression: "product_iteratief(588770, 409116)"
+      return: 240875227320
+    - expression: "product_iteratief(694180, 341635)"
+      return: 237156184300
+    - expression: "product_iteratief(754497, 805400)"
+      return: 607671883800
+    - expression: "product_iteratief(517977, 542302)"
+      return: 280899963054
+    - expression: "product_iteratief(965535, 984549)"
+      return: 950616518715
+    - expression: "product_iteratief(138983, 774637)"
+      return: 107661374171
+    - expression: "product_iteratief(624652, 427816)"
+      return: 267236120032
+    - expression: "product_iteratief(709568, 163484)"
+      return: 116003014912
+    - expression: "product_iteratief(131078, 576609)"
+      return: 75580754502
+    - expression: "product_iteratief(201309, 267065)"
+      return: 53762588085
+    - expression: "product_iteratief(351282, 942667)"
+      return: 331141949094
+    - expression: "product_iteratief(837446, 479204)"
+      return: 401307472984
+    - expression: "product_iteratief(497288, 107317)"
+      return: 53367456296
+    - expression: "product_iteratief(583200, 156617)"
+      return: 91339034400
+    - expression: "product_iteratief(941975, 418202)"
+      return: 393935828950
+    - expression: "product_iteratief(609670, 280741)"
+      return: 171159365470
+    - expression: "product_iteratief(914685, 920813)"
+      return: 842253838905
+    - expression: "product_iteratief(592063, 587099)"
+      return: 347599595237
+
+- tab: "product_recursief"
+  testcases:
+    - expression: "product_recursief(4, 4)"
+      return: 16
+    - expression: "product_recursief(10, 4)"
+      return: 40
+    - expression: "product_recursief(7, 2)"
+      return: 14
+    - expression: "product_recursief(7, 9)"
+      return: 63
+    - expression: "product_recursief(7, 10)"
+      return: 70
+    - expression: "product_recursief(8, 1)"
+      return: 8
+    - expression: "product_recursief(9, 7)"
+      return: 63
+    - expression: "product_recursief(4, 4)"
+      return: 16
+    - expression: "product_recursief(2, 6)"
+      return: 12
+    - expression: "product_recursief(10, 3)"
+      return: 30
+    - expression: "product_recursief(1, 7)"
+      return: 7
+    - expression: "product_recursief(3, 7)"
+      return: 21
+    - expression: "product_recursief(9, 4)"
+      return: 36
+    - expression: "product_recursief(10, 10)"
+      return: 100
+    - expression: "product_recursief(3, 8)"
+      return: 24
+    - expression: "product_recursief(3, 8)"
+      return: 24
+    - expression: "product_recursief(10, 9)"
+      return: 90
+    - expression: "product_recursief(8, 3)"
+      return: 24
+    - expression: "product_recursief(2, 2)"
+      return: 4
+    - expression: "product_recursief(3, 6)"
+      return: 18
+    - expression: "product_recursief(4, 1)"
+      return: 4
+    - expression: "product_recursief(9, 5)"
+      return: 45
+    - expression: "product_recursief(5, 7)"
+      return: 35
+    - expression: "product_recursief(4, 2)"
+      return: 8
+    - expression: "product_recursief(6, 9)"
+      return: 54
+    - expression: "product_recursief(5, 5)"
+      return: 25
+    - expression: "product_recursief(2, 6)"
+      return: 12
+    - expression: "product_recursief(4, 1)"
+      return: 4
+    - expression: "product_recursief(9, 3)"
+      return: 27
+    - expression: "product_recursief(7, 9)"
+      return: 63
+    - expression: "product_recursief(2, 8)"
+      return: 16
+    - expression: "product_recursief(7, 8)"
+      return: 56
+    - expression: "product_recursief(7, 2)"
+      return: 14
+    - expression: "product_recursief(94, 94)"
+      return: 8836
+    - expression: "product_recursief(87, 10)"
+      return: 870
+    - expression: "product_recursief(39, 61)"
+      return: 2379
+    - expression: "product_recursief(37, 24)"
+      return: 888
+    - expression: "product_recursief(23, 28)"
+      return: 644
+    - expression: "product_recursief(10, 74)"
+      return: 740
+    - expression: "product_recursief(100, 25)"
+      return: 2500
+    - expression: "product_recursief(53, 59)"
+      return: 3127
+    - expression: "product_recursief(69, 63)"
+      return: 4347
+    - expression: "product_recursief(71, 32)"
+      return: 2272
+    - expression: "product_recursief(48, 61)"
+      return: 2928
+    - expression: "product_recursief(19, 72)"
+      return: 1368
+    - expression: "product_recursief(69, 79)"
+      return: 5451
+    - expression: "product_recursief(12, 25)"
+      return: 300
+    - expression: "product_recursief(42, 76)"
+      return: 3192
+    - expression: "product_recursief(43, 84)"
+      return: 3612
+    - expression: "product_recursief(28, 11)"
+      return: 308
+    - expression: "product_recursief(74, 94)"
+      return: 6956
+    - expression: "product_recursief(91, 97)"
+      return: 8827
+    - expression: "product_recursief(14, 91)"
+      return: 1274
+    - expression: "product_recursief(94, 86)"
+      return: 8084
+    - expression: "product_recursief(38, 69)"
+      return: 2622
+    - expression: "product_recursief(33, 51)"
+      return: 1683
+    - expression: "product_recursief(56, 77)"
+      return: 4312
+    - expression: "product_recursief(91, 41)"
+      return: 3731
+    - expression: "product_recursief(44, 58)"
+      return: 2552
+    - expression: "product_recursief(26, 27)"
+      return: 702
+    - expression: "product_recursief(32, 40)"
+      return: 1280
+    - expression: "product_recursief(92, 13)"
+      return: 1196
+    - expression: "product_recursief(20, 14)"
+      return: 280
+    - expression: "product_recursief(97, 14)"
+      return: 1358
+    - expression: "product_recursief(49, 91)"
+      return: 4459
+    - expression: "product_recursief(54, 41)"
+      return: 2214
+    - expression: "product_recursief(430, 483)"
+      return: 207690
+    - expression: "product_recursief(196, 200)"
+      return: 39200
+    - expression: "product_recursief(770, 770)"
+      return: 592900
+    - expression: "product_recursief(687, 268)"
+      return: 184116
+    - expression: "product_recursief(812, 466)"
+      return: 378392
+    - expression: "product_recursief(899, 429)"
+      return: 385671
+    - expression: "product_recursief(868, 159)"
+      return: 138012
+    - expression: "product_recursief(726, 720)"
+      return: 522720
+    - expression: "product_recursief(198, 310)"
+      return: 61380
+    - expression: "product_recursief(253, 867)"
+      return: 219351
+    - expression: "product_recursief(809, 931)"
+      return: 753179
+    - expression: "product_recursief(671, 327)"
+      return: 219417
+    - expression: "product_recursief(230, 399)"
+      return: 91770
+    - expression: "product_recursief(349, 107)"
+      return: 37343
+    - expression: "product_recursief(695, 911)"
+      return: 633145
+    - expression: "product_recursief(905, 883)"
+      return: 799115
+    - expression: "product_recursief(783, 387)"
+      return: 303021
+    - expression: "product_recursief(410, 569)"
+      return: 233290
+    - expression: "product_recursief(997, 316)"
+      return: 315052
+    - expression: "product_recursief(237, 672)"
+      return: 159264
+    - expression: "product_recursief(574, 611)"
+      return: 350714
+    - expression: "product_recursief(246, 764)"
+      return: 187944
+    - expression: "product_recursief(750, 298)"
+      return: 223500
+    - expression: "product_recursief(207, 578)"
+      return: 119646
+    - expression: "product_recursief(978, 672)"
+      return: 657216
+    - expression: "product_recursief(624, 525)"
+      return: 327600
+    - expression: "product_recursief(194, 159)"
+      return: 30846
+    - expression: "product_recursief(970, 671)"
+      return: 650870
+    - expression: "product_recursief(300, 141)"
+      return: 42300
+    - expression: "product_recursief(174, 546)"
+      return: 95004
+    - expression: "product_recursief(742, 336)"
+      return: 249312
+    - expression: "product_recursief(670, 870)"
+      return: 582900
+    - expression: "product_recursief(278, 761)"
+      return: 211558

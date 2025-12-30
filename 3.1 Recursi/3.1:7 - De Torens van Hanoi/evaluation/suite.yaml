@@ -1,0 +1,52 @@
+- tab: "hanoi"
+  testcases:
+    - expression: "hanoi(1)"
+      return: 1
+    - expression: "hanoi(2)"
+      return: 3
+    - expression: "hanoi(3)"
+      return: 7
+    - expression: "hanoi(4)"
+      return: 15
+    - expression: "hanoi(5)"
+      return: 31
+    - expression: "hanoi(6)"
+      return: 63
+    - expression: "hanoi(7)"
+      return: 127
+    - expression: "hanoi(8)"
+      return: 255
+    - expression: "hanoi(9)"
+      return: 511
+    - expression: "hanoi(10)"
+      return: 1023
+    - expression: "hanoi(11)"
+      return: 2047
+    - expression: "hanoi(12)"
+      return: 4095
+    - expression: "hanoi(13)"
+      return: 8191
+    - expression: "hanoi(14)"
+      return: 16383
+    - expression: "hanoi(15)"
+      return: 32767
+    - expression: "hanoi(16)"
+      return: 65535
+    - expression: "hanoi(17)"
+      return: 131071
+    - expression: "hanoi(18)"
+      return: 262143
+    - expression: "hanoi(19)"
+      return: 524287
+    - expression: "hanoi(20)"
+      return: 1048575
+    - expression: "hanoi(21)"
+      return: 2097151
+    - expression: "hanoi(22)"
+      return: 4194303
+    - expression: "hanoi(23)"
+      return: 8388607
+    - expression: "hanoi(24)"
+      return: 16777215
+    - expression: "hanoi(25)"
+      return: 33554431
