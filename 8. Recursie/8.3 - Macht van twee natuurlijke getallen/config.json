@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "3.5 - De rij van Fibonacci"
+      "nl": "8.3 - Macht van twee natuurlijke getallen"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "Ngn6axIxKzIZ-DthfX6A-MnsZa5c6eB76fh-7ndwuMk9T4v948pF-VECSFpUuk2Z",
+    "token": "cG9gv6bRBiiQBTJ_H22PkhMeyg3RJ7f-t9spkXG_ycB7H9kiz3KMFSuCvTGc5KZB",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -1,7 +1,7 @@
 {
   "description": {
     "names": {
-      "nl": "3.1 - Trap beklimmen"
+      "nl": "8.5 - De rij van Fibonacci"
     }
   },
   "evaluation": {
@@ -15,7 +15,7 @@
   "contact": "sdevusser@sint-jan-brussel.be",
   "access": "public",
   "internals": {
-    "token": "c32v6MbBGIU-tTSkdnAf9sqGcv4IXWHKEfgmvmNIcxeRT2JAhn7yNYBkHMs4mPI_",
+    "token": "Ngn6axIxKzIZ-DthfX6A-MnsZa5c6eB76fh-7ndwuMk9T4v948pF-VECSFpUuk2Z",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
