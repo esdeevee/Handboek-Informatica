@@ -6,6 +6,7 @@ De oud-Griekse wiskundige Euclides heeft rond 300 v.C. een algoritme bedacht om 
 
 ### Voorbeeld
 ggd(752, 372) = ggd(372, 8) want 752 = 2 $$\cdot$$ 372 + 8
+
               = ggd(8, 4) want 372 = 46 $$\cdot$$ 8 + 4
 
 $$              = ggd(4, 0) want 8 = 2 \cdot 4 + 0$$
