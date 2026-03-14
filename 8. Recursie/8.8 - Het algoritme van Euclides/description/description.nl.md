@@ -24,7 +24,7 @@ Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
 **Invoer:**
 
-    > Euclides_iteratief(10, 64)
+    > euclides_iteratief(10, 64)
 
 **Uitvoer:**
 
@@ -33,7 +33,7 @@ Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
 **Invoer:**
 
-    > Euclides_recursief(52, 91)
+    > euclides_recursief(52, 91)
 
 **Uitvoer:**
 
