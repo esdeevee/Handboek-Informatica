@@ -13,7 +13,7 @@ Misschien helpt het om het spel een paar keer [online](https://nl.goobix.com/onl
 
 ### Opgave
 
-Schrijf een functie `Hanoi(n)` die op een recursieve manier berekent hoeveel stappen er nodig zijn om om een toren van `n` schijven te verplaatsen. 
+Schrijf een functie `hanoi(n)` die op een recursieve manier berekent hoeveel stappen er nodig zijn om om een toren van `n` schijven te verplaatsen. 
 
 Test je code in Dodona. Let daarbij op dat je geen hoofdprogramma ingeeft.
 
