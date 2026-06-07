@@ -1,0 +1,202 @@
+- tab: "aantal_cijfers_recursief"
+  testcases:
+    - expression: "som_van_de_cijfers_recursief(92)"
+      return: 11
+    - expression: "som_van_de_cijfers_recursief(2)"
+      return: 2
+    - expression: "som_van_de_cijfers_recursief(9)"
+      return: 9
+    - expression: "som_van_de_cijfers_recursief(15)"
+      return: 6
+    - expression: "som_van_de_cijfers_recursief(2)"
+      return: 2
+    - expression: "som_van_de_cijfers_recursief(8)"
+      return: 8
+    - expression: "som_van_de_cijfers_recursief(3)"
+      return: 3
+    - expression: "som_van_de_cijfers_recursief(1)"
+      return: 1
+    - expression: "som_van_de_cijfers_recursief(50)"
+      return: 5
+    - expression: "som_van_de_cijfers_recursief(17)"
+      return: 8
+    - expression: "som_van_de_cijfers_recursief(6)"
+      return: 6
+    - expression: "som_van_de_cijfers_recursief(477)"
+      return: 18
+    - expression: "som_van_de_cijfers_recursief(124)"
+      return: 7
+    - expression: "som_van_de_cijfers_recursief(59)"
+      return: 14
+    - expression: "som_van_de_cijfers_recursief(3)"
+      return: 3
+    - expression: "som_van_de_cijfers_recursief(66871)"
+      return: 28
+    - expression: "som_van_de_cijfers_recursief(52203)"
+      return: 12
+    - expression: "som_van_de_cijfers_recursief(276)"
+      return: 15
+    - expression: "som_van_de_cijfers_recursief(1563)"
+      return: 15
+    - expression: "som_van_de_cijfers_recursief(2)"
+      return: 2
+    - expression: "som_van_de_cijfers_recursief(150222)"
+      return: 12
+    - expression: "som_van_de_cijfers_recursief(4)"
+      return: 4
+    - expression: "som_van_de_cijfers_recursief(7680)"
+      return: 21
+    - expression: "som_van_de_cijfers_recursief(1562739)"
+      return: 33
+    - expression: "som_van_de_cijfers_recursief(816)"
+      return: 15
+    - expression: "som_van_de_cijfers_recursief(9125958594)"
+      return: 57
+    - expression: "som_van_de_cijfers_recursief(176693)"
+      return: 32
+    - expression: "som_van_de_cijfers_recursief(519)"
+      return: 15
+    - expression: "som_van_de_cijfers_recursief(1107)"
+      return: 9
+    - expression: "som_van_de_cijfers_recursief(1517227)"
+      return: 25
+    - expression: "som_van_de_cijfers_recursief(697)"
+      return: 22
+    - expression: "som_van_de_cijfers_recursief(53367)"
+      return: 24
+    - expression: "som_van_de_cijfers_recursief(60407913)"
+      return: 30
+    - expression: "som_van_de_cijfers_recursief(38)"
+      return: 11
+    - expression: "som_van_de_cijfers_recursief(7788619878667474)"
+      return: 103
+    - expression: "som_van_de_cijfers_recursief(6)"
+      return: 6
+    - expression: "som_van_de_cijfers_recursief(279)"
+      return: 18
+    - expression: "som_van_de_cijfers_recursief(324376)"
+      return: 25
+    - expression: "som_van_de_cijfers_recursief(5625)"
+      return: 18
+    - expression: "som_van_de_cijfers_recursief(5828085611141035)"
+      return: 58
+    - expression: "som_van_de_cijfers_recursief(11809084440903)"
+      return: 51
+    - expression: "som_van_de_cijfers_recursief(674368976483012016230)"
+      return: 86
+    - expression: "som_van_de_cijfers_recursief(2295318131)"
+      return: 35
+    - expression: "som_van_de_cijfers_recursief(1413295021)"
+      return: 28
+    - expression: "som_van_de_cijfers_recursief(5238275139432339730809)"
+      return: 96
+    - expression: "som_van_de_cijfers_recursief(270210)"
+      return: 12
+    - expression: "som_van_de_cijfers_recursief(5)"
+      return: 5
+    - expression: "som_van_de_cijfers_recursief(654112485172236758278640)"
+      return: 104
+    - expression: "som_van_de_cijfers_recursief(830349991)"
+      return: 46
+    - expression: "som_van_de_cijfers_recursief(92645162384967)"
+      return: 72
+    - expression: "som_van_de_cijfers_recursief(22646095350395486341693746)"
+      return: 120
+    - expression: "som_van_de_cijfers_recursief(11986366535448707830204685)"
+      return: 119
+    - expression: "som_van_de_cijfers_recursief(119062060364236788146997122)"
+      return: 113
+    - expression: "som_van_de_cijfers_recursief(49869414131066413873962935733242838)"
+      return: 162
+    - expression: "som_van_de_cijfers_recursief(8114127576143101909)"
+      return: 70
+    - expression: "som_van_de_cijfers_recursief(680355732880518)"
+      return: 69
+    - expression: "som_van_de_cijfers_recursief(9063)"
+      return: 18
+    - expression: "som_van_de_cijfers_recursief(567906594)"
+      return: 51
+    - expression: "som_van_de_cijfers_recursief(845860)"
+      return: 31
+    - expression: "som_van_de_cijfers_recursief(6693411194)"
+      return: 44
+    - expression: "som_van_de_cijfers_recursief(195708214650207563770538230)"
+      return: 106
+    - expression: "som_van_de_cijfers_recursief(356578684214167934)"
+      return: 89
+    - expression: "som_van_de_cijfers_recursief(902828275824167587992420536234364)"
+      return: 153
+    - expression: "som_van_de_cijfers_recursief(618685356358994184668808)"
+      return: 135
+    - expression: "som_van_de_cijfers_recursief(8)"
+      return: 8
+    - expression: "som_van_de_cijfers_recursief(6823940482137300533056445)"
+      return: 95
+    - expression: "som_van_de_cijfers_recursief(99167810578596260252310358395448)"
+      return: 151
+    - expression: "som_van_de_cijfers_recursief(159138490484193874604015397830)"
+      return: 134
+    - expression: "som_van_de_cijfers_recursief(85738034)"
+      return: 38
+    - expression: "som_van_de_cijfers_recursief(35062030865869355444)"
+      return: 86
+    - expression: "som_van_de_cijfers_recursief(911855365019656363089858255829976524893448910400)"
+      return: 234
+    - expression: "som_van_de_cijfers_recursief(279440784851684673584780836163435822081065622592084562664662)"
+      return: 277
+    - expression: "som_van_de_cijfers_recursief(6431744358511933897454829626581327048185145956427224518830)"
+      return: 265
+    - expression: "som_van_de_cijfers_recursief(4262560698517365863974228152996552653442646)"
+      return: 208
+    - expression: "som_van_de_cijfers_recursief(18388773876715152380160046999836455)"
+      return: 173
+    - expression: "som_van_de_cijfers_recursief(247098637605405235066)"
+      return: 88
+    - expression: "som_van_de_cijfers_recursief(39956676669276888898556698181)"
+      return: 185
+    - expression: "som_van_de_cijfers_recursief(10325654306320005666)"
+      return: 63
+    - expression: "som_van_de_cijfers_recursief(74512)"
+      return: 19
+    - expression: "som_van_de_cijfers_recursief(681938047633484884488)"
+      return: 114
+    - expression: "som_van_de_cijfers_recursief(11466747083)"
+      return: 47
+    - expression: "som_van_de_cijfers_recursief(75490429556627713910419282668805993515053958888719974188970636546)"
+      return: 337
+    - expression: "som_van_de_cijfers_recursief(55867982780496709832044066390572)"
+      return: 159
+    - expression: "som_van_de_cijfers_recursief(99922430)"
+      return: 38
+    - expression: "som_van_de_cijfers_recursief(8774571956335767896028754988432917424749436981879549220958287211242)"
+      return: 348
+    - expression: "som_van_de_cijfers_recursief(14)"
+      return: 5
+    - expression: "som_van_de_cijfers_recursief(4779147885752419103982219726828717597452017647143913)"
+      return: 249
+    - expression: "som_van_de_cijfers_recursief(685089750506717939360774875139137857360726)"
+      return: 210
+    - expression: "som_van_de_cijfers_recursief(48655299593253335)"
+      return: 86
+    - expression: "som_van_de_cijfers_recursief(72493)"
+      return: 25
+    - expression: "som_van_de_cijfers_recursief(1513112261081050620979187926922618093666346329835324498050021955458191999044196)"
+      return: 340
+    - expression: "som_van_de_cijfers_recursief(79143072967707700663279875269357145728145658904909175020120813799396041946070052292953420432944250)"
+      return: 428
+    - expression: "som_van_de_cijfers_recursief(4360479214733257100735)"
+      return: 83
+    - expression: "som_van_de_cijfers_recursief(3901527490282070798295186999)"
+      return: 141
+    - expression: "som_van_de_cijfers_recursief(583009375193148977036671884364154919433088964475473989063726423797518987413289106360019439784)"
+      return: 457
+    - expression: "som_van_de_cijfers_recursief(543592168794312979040540)"
+      return: 107
+    - expression: "som_van_de_cijfers_recursief(1794642680421177677173894223669943483175143206786370961082693)"
+      return: 284
+    - expression: "som_van_de_cijfers_recursief(4809257021129812949849693690098712132913524124620949459422826235714937958)"
+      return: 336
+    - expression: "som_van_de_cijfers_recursief(7768124483741266490545984779468359544)"
+      return: 195
+    - expression: "som_van_de_cijfers_recursief(82261415432575003786955172397556870722540538308374277103969875825662376157196580)"
+      return: 370

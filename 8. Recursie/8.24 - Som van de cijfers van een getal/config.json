@@ -1,0 +1,21 @@
+{
+  "description": {
+    "names": {
+      "nl": "Som van de cijfers van een getal"
+    }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml",
+    "memory_limit": 500000000
+  },
+  "labels": [
+    "recursie"
+  ],
+  "contact": "sdevusser@sint-jan-brussel.be",
+  "access": "public",
+  "internals": {
+    "token": "xt7IMsY5ZhdaB2a5hfKguh77FTMtUwMsGjHpsJ-BdRXBxpe4c7FI3AWG3tcN7E2T",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
